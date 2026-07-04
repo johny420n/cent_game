@@ -193,6 +193,7 @@ export function GameScreen({
                 player={state.players[idx]}
                 isReveal={isReveal}
                 correctAnswer={question.correctAnswer}
+                explanation={question.explanation}
                 onSelect={(i) => onSelectAnswer(idx, i)}
                 onFiftyFifty={() => onFiftyFifty(idx)}
                 onCallFriend={() => onCallFriend(idx)}

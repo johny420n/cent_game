@@ -56,6 +56,13 @@ export default function App() {
     );
   };
 
+  // Returning to the start screen always re-enables every category, so a new
+  // game offers all question types regardless of earlier deselections.
+  const returnToStart = () => {
+    setSelectedCategories(allCategories);
+    resetGame();
+  };
+
   if (loading) {
     return (
       <div className="loading-screen">
@@ -112,9 +119,9 @@ export default function App() {
         state={state}
         isHighscore={isHighscore}
         onSaveHighscore={addHighscore}
-        onPlayAgain={resetGame}
+        onPlayAgain={returnToStart}
         onHighscores={() => {
-          resetGame();
+          returnToStart();
           setScreen('highscores');
         }}
       />
@@ -130,7 +137,7 @@ export default function App() {
       onFiftyFifty={useFiftyFifty}
       onCallFriend={useCallFriend}
       onNextQuestion={nextQuestion}
-      onQuit={resetGame}
+      onQuit={returnToStart}
     />
   );
 }

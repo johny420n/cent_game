@@ -7,6 +7,7 @@ interface PlayerPanelProps {
   player: PlayerState;
   isReveal: boolean;
   correctAnswer: number;
+  explanation?: string;
   onSelect: (answerIndex: number) => void;
   onFiftyFifty: () => void;
   onCallFriend: () => void;
@@ -17,6 +18,7 @@ export function PlayerPanel({
   player,
   isReveal,
   correctAnswer,
+  explanation,
   onSelect,
   onFiftyFifty,
   onCallFriend,
@@ -82,9 +84,11 @@ export function PlayerPanel({
         </button>
       </div>
 
-      {player.callFriendSuggestion !== null && (
+      {player.friendHintActive && !isReveal && (
         <div className="call-friend-hint">
-          📞 Your friend thinks it's <strong>{LETTERS[player.callFriendSuggestion]}</strong>
+          📞 {explanation
+            ? <>Your friend says: <em>{explanation}</em></>
+            : "Your friend isn't sure about this one!"}
         </div>
       )}
     </div>

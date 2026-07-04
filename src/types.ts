@@ -18,7 +18,7 @@ export interface PlayerState {
   usedFiftyFifty: boolean;
   usedCallFriend: boolean;
   fiftyFiftyEliminated: number[]; // per-player eliminated answers
-  callFriendSuggestion: number | null; // answer index the "friend" suggests this question
+  friendHintActive: boolean; // whether "phone a friend" is revealing the explainer this question
   correctCount: number;
 }
 

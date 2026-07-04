@@ -11,7 +11,7 @@ function createPlayer(name: string): PlayerState {
     usedFiftyFifty: false,
     usedCallFriend: false,
     fiftyFiftyEliminated: [],
-    callFriendSuggestion: null,
+    friendHintActive: false,
     correctCount: 0,
   };
 }
@@ -108,7 +108,7 @@ export function useGameState(allQuestions: Question[]) {
         selectedAnswer: null,
         lockedIn: false,
         fiftyFiftyEliminated: [], // reset per-question eliminations
-        callFriendSuggestion: null, // hint only applies to the question it was used on
+        friendHintActive: false, // hint only applies to the question it was used on
       });
       const players: [PlayerState, PlayerState, PlayerState] = [
         resetForNext(prev.players[0]),
@@ -161,27 +161,12 @@ export function useGameState(allQuestions: Question[]) {
       if (prev.phase !== 'playing') return prev;
       if (prev.players[playerIndex].usedCallFriend) return prev;
 
-      const player = prev.players[playerIndex];
-      const question = prev.questions[prev.currentQuestionIndex];
-      const correct = question.correctAnswer;
-
-      // The friend is right ~80% of the time; otherwise guesses a plausible
-      // wrong answer (skipping any already eliminated by 50:50).
-      let suggestion = correct;
-      if (Math.random() >= 0.8) {
-        const wrong = [0, 1, 2, 3].filter(
-          i => i !== correct && !player.fiftyFiftyEliminated.includes(i),
-        );
-        if (wrong.length > 0) {
-          suggestion = wrong[Math.floor(Math.random() * wrong.length)];
-        }
-      }
-
+      // Phone a friend: the friend shares the question's explainer as a hint.
       const players = [...prev.players] as [PlayerState, PlayerState, PlayerState];
       players[playerIndex] = {
-        ...player,
+        ...players[playerIndex],
         usedCallFriend: true,
-        callFriendSuggestion: suggestion,
+        friendHintActive: true,
       };
 
       return { ...prev, players };
