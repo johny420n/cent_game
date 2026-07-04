@@ -25,7 +25,7 @@ export default defineConfig(({ command }) => ({
         theme_color: '#0a0a2e',
         background_color: '#0a0a2e',
         display: 'standalone',
-        orientation: 'landscape',
+        // No orientation lock: portrait on phones, landscape on tablets.
         // Relative paths so the app works under a GitHub Pages sub-path.
         start_url: '.',
         scope: '.',

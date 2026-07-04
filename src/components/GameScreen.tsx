@@ -4,6 +4,7 @@ import { QuestionDisplay } from './QuestionDisplay';
 import { AnswerButton } from './AnswerButton';
 import { PlayerPanel } from './PlayerPanel';
 import { MoneyLadder } from './MoneyLadder';
+import { getLadder, formatMoney } from '../data/moneyLadders';
 
 interface GameScreenProps {
   state: GameState;
@@ -91,6 +92,9 @@ export function GameScreen({
         </span>
         <span className="game-header__question-num" style={{ textTransform: 'capitalize', color: 'var(--accent-gold)' }}>
           {question.difficulty}
+        </span>
+        <span className="game-header__money">
+          {formatMoney(getLadder(state.questions.length)[state.currentQuestionIndex])}
         </span>
       </div>
 

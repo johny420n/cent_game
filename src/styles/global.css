@@ -32,6 +32,7 @@ body {
   background: radial-gradient(ellipse at center, var(--bg-medium) 0%, var(--bg-dark) 70%);
   color: var(--text-primary);
   min-height: 100vh;
+  min-height: 100dvh; /* account for mobile browser chrome (iOS Safari) */
   overflow-x: hidden;
   -webkit-tap-highlight-color: transparent; /* no grey flash on tap */
   /* Respect the notch / rounded corners when installed on iPad */
@@ -52,6 +53,7 @@ h1, h2, h3 {
 
 #root {
   min-height: 100vh;
+  min-height: 100dvh;
   display: flex;
   flex-direction: column;
 }
@@ -224,6 +226,8 @@ h1, h2, h3 {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
   padding: 0.5rem 1rem;
   margin-bottom: 1rem;
 }
@@ -965,6 +969,7 @@ h1, h2, h3 {
 }
 
 /* Responsive */
+/* Tablets and small screens: stack the layout, ladder goes below. */
 @media (max-width: 768px) {
   .start-screen__title {
     font-size: 1.8rem;
@@ -996,6 +1001,82 @@ h1, h2, h3 {
 
   .question-display__text {
     font-size: 1.1rem;
+  }
+}
+
+/* Phones (portrait): tighten spacing; the current prize lives in the header,
+   so drop the bulky full ladder to save vertical space. */
+@media (max-width: 480px) {
+  .start-screen {
+    padding: 1.25rem;
+  }
+
+  .start-screen__title {
+    font-size: 1.5rem;
+  }
+
+  .game-screen {
+    padding: 0.75rem;
+  }
+
+  .game-header {
+    padding: 0.4rem 0.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .game-header__question-num,
+  .game-header__money {
+    font-size: 0.85rem;
+  }
+
+  .game-header__money {
+    padding: 0.2rem 0.6rem;
+  }
+
+  .question-display {
+    padding: 1rem 1.1rem;
+  }
+
+  .answer-btn {
+    padding: 0.85rem 1rem;
+    font-size: 1rem;
+    min-height: 54px;
+  }
+
+  .game-sidebar {
+    display: none; /* prize is shown in the header on phones */
+  }
+
+  .start-screen__options {
+    gap: 1.25rem;
+  }
+}
+
+/* Landscape phones (short height): trim vertical space so a round fits. */
+@media (max-height: 480px) and (orientation: landscape) {
+  .game-screen {
+    padding: 0.5rem;
+  }
+
+  .game-header {
+    margin-bottom: 0.5rem;
+  }
+
+  .question-display {
+    padding: 0.75rem 1rem;
+  }
+
+  .question-display__category {
+    margin-bottom: 0.5rem;
+  }
+
+  .answer-btn {
+    min-height: 46px;
+    padding: 0.6rem 1rem;
+  }
+
+  .game-layout {
+    gap: 0.5rem;
   }
 }
 
