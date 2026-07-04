@@ -5,7 +5,7 @@ import { AnswerButton } from './AnswerButton';
 import { PlayerPanel } from './PlayerPanel';
 import { MoneyLadder } from './MoneyLadder';
 import { getLadder, formatMoney } from '../data/moneyLadders';
-import { playSelect, playLockIn, playCorrect, playWrong, isMuted, toggleMuted } from '../utils/sound';
+import { playSelect, playLockIn, playCorrect, playWrong, playTick, playLifeline, isMuted, toggleMuted } from '../utils/sound';
 
 interface GameScreenProps {
   state: GameState;
@@ -93,6 +93,11 @@ export function GameScreen({
       onLockInAll();
     }
   }, [isTimed, timeLeft, isReveal, onLockInAll]);
+
+  // Tick during the final seconds of the countdown.
+  useEffect(() => {
+    if (isTimed && !isReveal && timeLeft > 0 && timeLeft <= 10) playTick();
+  }, [isTimed, isReveal, timeLeft]);
 
   const timerPercent = isTimed ? (timeLeft / (timeLimit as number)) * 100 : 100;
   const timerUrgent = timeLeft <= 10;
@@ -220,8 +225,8 @@ export function GameScreen({
                 correctAnswer={question.correctAnswer}
                 explanation={question.explanation}
                 onSelect={(i) => { playSelect(); onSelectAnswer(idx, i); }}
-                onFiftyFifty={() => onFiftyFifty(idx)}
-                onCallFriend={() => onCallFriend(idx)}
+                onFiftyFifty={() => { playLifeline(); onFiftyFifty(idx); }}
+                onCallFriend={() => { playLifeline(); onCallFriend(idx); }}
               />
             ))}
           </div>

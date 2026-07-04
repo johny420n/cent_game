@@ -1,6 +1,7 @@
-import { useState } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import type { GameState, HighscoreEntry, PlayerIndex } from '../types';
-import { winningsFor, formatMoney } from '../data/moneyLadders';
+import { winningsFor, formatMoney, getLadder } from '../data/moneyLadders';
+import { playFanfare, playWin, playGameOver } from '../utils/sound';
 
 interface ResultsScreenProps {
   state: GameState;
@@ -23,6 +24,20 @@ export function ResultsScreen({
   const maxScore = Math.max(...activePlayers.map(p => p.score));
   const isMultiplayer = state.playerCount > 1;
   const winnerCount = activePlayers.filter(p => p.score === maxScore).length;
+
+  // Play a results sound once: fanfare for hitting the top prize, a positive
+  // jingle for any winnings, or a soft game-over sting for nothing.
+  const soundPlayedRef = useRef(false);
+  useEffect(() => {
+    if (soundPlayedRef.current) return;
+    soundPlayedRef.current = true;
+    const total = state.questions.length;
+    const topPrize = getLadder(total)[total - 1];
+    const bestWinnings = Math.max(...activePlayers.map(p => winningsFor(total, p.correctCount)));
+    if (bestWinnings >= topPrize) playFanfare();
+    else if (bestWinnings > 0) playWin();
+    else playGameOver();
+  }, [state.questions.length, activePlayers]);
 
   const handleSave = (playerIndex: PlayerIndex) => {
     const player = state.players[playerIndex];
