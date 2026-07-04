@@ -90,6 +90,14 @@ export function useGameState(allQuestions: Question[]) {
 
   const nextQuestion = useCallback(() => {
     setState(prev => {
+      // Single-player only: a wrong answer (or timeout) ends the game.
+      if (prev.playerCount === 1) {
+        const question = prev.questions[prev.currentQuestionIndex];
+        if (prev.players[0].selectedAnswer !== question.correctAnswer) {
+          return { ...prev, phase: 'results' };
+        }
+      }
+
       const nextIndex = prev.currentQuestionIndex + 1;
       if (nextIndex >= prev.questions.length) {
         return { ...prev, phase: 'results' };

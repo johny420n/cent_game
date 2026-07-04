@@ -1132,6 +1132,16 @@ h1, h2, h3 {
   text-align: center;
 }
 
+/* Single-player game-over note at reveal */
+.game-over-note {
+  margin-bottom: 0.75rem;
+  font-family: 'Cinzel', serif;
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: var(--wrong-red);
+  text-align: center;
+}
+
 /* Winnings on results cards */
 .result-card__winnings {
   margin-top: 0.5rem;

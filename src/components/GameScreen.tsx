@@ -29,6 +29,11 @@ export function GameScreen({
   const isReveal = state.phase === 'reveal';
   const isLastQuestion = state.currentQuestionIndex >= state.questions.length - 1;
 
+  // Single-player: a wrong answer (or timeout) ends the game at reveal.
+  const singlePlayerOut = isReveal && state.playerCount === 1 &&
+    state.players[0].selectedAnswer !== question.correctAnswer;
+  const endsGame = isLastQuestion || singlePlayerOut;
+
   const timeLimit = state.timerSeconds;
   const isTimed = timeLimit !== null;
 
@@ -150,9 +155,18 @@ export function GameScreen({
           {/* Shared Lock In / Next Question button */}
           <div className="shared-action">
             {isReveal ? (
-              <button className="reveal-overlay__btn" onClick={onNextQuestion}>
-                {isLastQuestion ? 'See Results' : 'Next Question'}
-              </button>
+              <>
+                {singlePlayerOut && (
+                  <p className="game-over-note">
+                    {state.players[0].selectedAnswer === null
+                      ? 'Time ran out — game over!'
+                      : 'Wrong answer — game over!'}
+                  </p>
+                )}
+                <button className="reveal-overlay__btn" onClick={onNextQuestion}>
+                  {endsGame ? 'See Results' : 'Next Question'}
+                </button>
+              </>
             ) : (
               <button
                 className="lock-in-btn lock-in-btn--shared"
