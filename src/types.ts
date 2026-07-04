@@ -5,6 +5,7 @@ export interface Question {
   correctAnswer: number; // 0-3 index
   difficulty: 'easy' | 'medium' | 'hard';
   category: string;
+  explanation?: string; // shown on reveal for both correct and wrong answers
 }
 
 export type PlayerIndex = 0 | 1 | 2;

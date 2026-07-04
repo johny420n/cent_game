@@ -152,6 +152,14 @@ export function GameScreen({
             })}
           </div>
 
+          {/* Explainer shown on reveal for both correct and wrong answers */}
+          {isReveal && question.explanation && (
+            <div className="explanation">
+              <span className="explanation__label">Did you know?</span>
+              <p className="explanation__text">{question.explanation}</p>
+            </div>
+          )}
+
           {/* Shared Lock In / Next Question button */}
           <div className="shared-action">
             {isReveal ? (

@@ -1132,6 +1132,34 @@ h1, h2, h3 {
   text-align: center;
 }
 
+/* Explainer shown on reveal */
+.explanation {
+  max-width: 800px;
+  margin: 0 auto;
+  width: 100%;
+  padding: 0.9rem 1.25rem;
+  background: rgba(45, 95, 255, 0.12);
+  border: 1px solid rgba(45, 95, 255, 0.4);
+  border-radius: 12px;
+  animation: fadeIn 0.4s ease;
+}
+
+.explanation__label {
+  display: block;
+  font-family: 'Cinzel', serif;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--accent-gold);
+  margin-bottom: 0.35rem;
+}
+
+.explanation__text {
+  font-size: 1rem;
+  line-height: 1.5;
+  color: var(--text-primary);
+}
+
 /* Single-player game-over note at reveal */
 .game-over-note {
   margin-bottom: 0.75rem;

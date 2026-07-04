@@ -10,7 +10,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "General Knowledge"
+    "category": "General Knowledge",
+    "explanation": "Adding white to red makes it lighter, turning it into a soft pink color!"
   },
   {
     "id": 2,
@@ -23,7 +24,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "Earth has 7 continents: Asia, Africa, North America, South America, Antarctica, Europe, and Australia."
   },
   {
     "id": 3,
@@ -36,7 +38,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Jupiter is so huge that all the other planets could fit inside it!"
   },
   {
     "id": 4,
@@ -49,7 +52,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Sports"
+    "category": "Sports",
+    "explanation": "Wimbledon in London is the world's oldest tennis tournament, where players hit balls over a net."
   },
   {
     "id": 5,
@@ -62,7 +66,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "15 times 4 is the same as 15 + 15 + 15 + 15, which adds up to 60."
   },
   {
     "id": 6,
@@ -75,7 +80,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "Lions are called the 'King of the Jungle' because they are strong, brave, and have a mighty roar!"
   },
   {
     "id": 7,
@@ -88,7 +94,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Language"
+    "category": "Language",
+    "explanation": "Brazil was settled by Portugal long ago, so most people there speak Portuguese!"
   },
   {
     "id": 8,
@@ -101,7 +108,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "easy",
-    "category": "Technology"
+    "category": "Technology",
+    "explanation": "Apple made the very first iPhone back in 2007, and it changed phones forever!"
   },
   {
     "id": 9,
@@ -114,7 +122,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "Washington, D.C. is the capital of the USA, where the President lives in the White House."
   },
   {
     "id": 10,
@@ -127,7 +136,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "explanation": "Superman is nicknamed the 'Man of Steel' because he is super strong and almost impossible to hurt!"
   },
   {
     "id": 11,
@@ -140,7 +150,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "A triangle always has exactly 3 sides and 3 corners, that's what the word 'tri' means!"
   },
   {
     "id": 12,
@@ -153,7 +164,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Plants breathe in carbon dioxide and use it to make their own food."
   },
   {
     "id": 13,
@@ -166,7 +178,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "The Pacific Ocean is the biggest, covering about a third of the whole planet!"
   },
   {
     "id": 14,
@@ -179,7 +192,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "A baby dog is called a puppy, and puppies love to play and nap a lot!"
   },
   {
     "id": 15,
@@ -192,7 +206,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Sports"
+    "category": "Sports",
+    "explanation": "Cricket uses a flat bat and a ball, and players run between two sets of wooden wickets."
   },
   {
     "id": 16,
@@ -205,7 +220,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "General Knowledge"
+    "category": "General Knowledge",
+    "explanation": "A leap year has one extra day, February 29th, giving it 366 days instead of 365."
   },
   {
     "id": 17,
@@ -218,7 +234,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Diamonds are so hard they can scratch almost anything else on Earth."
   },
   {
     "id": 18,
@@ -231,7 +248,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Mars looks red because its soil is full of rusty iron dust."
   },
   {
     "id": 19,
@@ -244,7 +262,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Language"
+    "category": "Language",
+    "explanation": "People in Japan speak Japanese, which uses special writing symbols instead of our alphabet."
   },
   {
     "id": 20,
@@ -257,7 +276,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "Technology"
+    "category": "Technology",
+    "explanation": "The 'www' stands for World Wide Web, the giant web of pages linked all around the world."
   },
   {
     "id": 21,
@@ -270,7 +290,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "12 times 12 equals 144, so 12 is the square root of 144."
   },
   {
     "id": 22,
@@ -283,7 +304,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "Italy sticks out into the sea shaped just like a tall boot with a heel."
   },
   {
     "id": 23,
@@ -296,7 +318,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "explanation": "In 'Finding Nemo', a little clownfish named Nemo gets lost and his dad swims across the whole ocean to find him!"
   },
   {
     "id": 24,
@@ -309,7 +332,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "easy",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "The cheetah is the fastest land animal and can run as fast as a car on the highway!"
   },
   {
     "id": 25,
@@ -322,7 +346,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "Sports"
+    "category": "Sports",
+    "explanation": "A soccer team plays with 11 players on the field, including one goalkeeper."
   },
   {
     "id": 26,
@@ -335,7 +360,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "easy",
-    "category": "General Knowledge"
+    "category": "General Knowledge",
+    "explanation": "Emeralds are famous green gemstones, and their beautiful green color is what makes them special!"
   },
   {
     "id": 27,
@@ -348,7 +374,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Your heart is a muscle that pumps blood to every part of your body."
   },
   {
     "id": 28,
@@ -361,7 +388,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "easy",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "Antarctica is the icy continent at the very bottom of the world, home to penguins."
   },
   {
     "id": 29,
@@ -374,7 +402,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "25% means one quarter, and a quarter of 200 is 200 shared into 4 parts, which is 50."
   },
   {
     "id": 30,
@@ -387,7 +416,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "explanation": "Harry Potter is the famous young wizard who learns magic at Hogwarts School with his friends Ron and Hermione."
   },
   {
     "id": 31,
@@ -400,7 +430,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "easy",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "Spiders always have eight legs, which is two more than insects like ants and bees!"
   },
   {
     "id": 32,
@@ -413,7 +444,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "At sea level, water gets so hot it bubbles and boils at 100 degrees Celsius."
   },
   {
     "id": 33,
@@ -426,7 +458,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "Technology"
+    "category": "Technology",
+    "explanation": "USB means Universal Serial Bus, a handy plug that connects lots of different gadgets."
   },
   {
     "id": 34,
@@ -439,7 +472,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "easy",
-    "category": "Language"
+    "category": "Language",
+    "explanation": "The English alphabet has 26 letters, from A all the way to Z!"
   },
   {
     "id": 35,
@@ -452,7 +486,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "Sports"
+    "category": "Sports",
+    "explanation": "Gymnasts balance, flip, and dance on a narrow wooden beam high off the ground."
   },
   {
     "id": 36,
@@ -465,7 +500,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Language"
+    "category": "Language",
+    "explanation": "'Ancient' means very, very old, so its opposite is 'modern', which means new."
   },
   {
     "id": 37,
@@ -478,7 +514,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "General Knowledge"
+    "category": "General Knowledge",
+    "explanation": "People say 'an apple a day keeps the doctor away' because apples are so healthy for you."
   },
   {
     "id": 38,
@@ -491,7 +528,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Water is made of two hydrogen atoms and one oxygen atom joined together."
   },
   {
     "id": 39,
@@ -504,7 +542,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "One million is written 1,000,000, and if you count the little zeros there are 6."
   },
   {
     "id": 40,
@@ -517,7 +556,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "The blue whale is the biggest animal ever, even bigger than the largest dinosaurs!"
   },
   {
     "id": 41,
@@ -530,7 +570,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "France gave the Statue of Liberty to America in 1886 as a gift of friendship."
   },
   {
     "id": 42,
@@ -543,7 +584,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "explanation": "A piano has 88 keys in total, mixing white and black keys to make all its lovely sounds!"
   },
   {
     "id": 43,
@@ -556,7 +598,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "Tokyo is the busy capital city of Japan, in eastern Asia."
   },
   {
     "id": 44,
@@ -569,7 +612,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Gravity is the invisible pull that keeps everything from floating away."
   },
   {
     "id": 45,
@@ -582,7 +626,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "easy",
-    "category": "General Knowledge"
+    "category": "General Knowledge",
+    "explanation": "One full day has 24 hours, split into daytime and nighttime as Earth spins around once."
   },
   {
     "id": 46,
@@ -595,7 +640,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "easy",
-    "category": "General Knowledge"
+    "category": "General Knowledge",
+    "explanation": "School buses are painted bright yellow so they are easy to see and keep kids safe."
   },
   {
     "id": 47,
@@ -608,7 +654,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "2 is the smallest prime because 1 isn't prime, and 2 only divides by 1 and itself."
   },
   {
     "id": 48,
@@ -621,7 +668,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "The dove is a symbol of peace and is often shown carrying a little green leaf!"
   },
   {
     "id": 49,
@@ -634,7 +682,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "The Great Wall of China is a huge wall built long ago to keep enemies out."
   },
   {
     "id": 50,
@@ -647,7 +696,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Technology"
+    "category": "Technology",
+    "explanation": "Google's search engine is simply called Google, and it helps you find things online."
   },
   {
     "id": 51,
@@ -660,7 +710,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Language"
+    "category": "Language",
+    "explanation": "'Nocturnal' animals like owls and bats are awake and active at night while we sleep."
   },
   {
     "id": 52,
@@ -673,7 +724,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "Sports"
+    "category": "Sports",
+    "explanation": "The Olympic flag has 5 colorful rings that stand for the five parts of the world."
   },
   {
     "id": 53,
@@ -686,7 +738,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "explanation": "Cinderella loses her sparkly glass slipper at the ball, and the prince uses it to find her again."
   },
   {
     "id": 54,
@@ -699,7 +752,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "Egypt, with its famous pyramids, sits in the northeast corner of Africa."
   },
   {
     "id": 55,
@@ -712,7 +766,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "Dolphins are mammals because they breathe air and feed their babies milk, just like us!"
   },
   {
     "id": 56,
@@ -725,7 +780,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "Technology"
+    "category": "Technology",
+    "explanation": "The 'E' means Electronic, because e-mail is a letter sent by computers instead of paper."
   },
   {
     "id": 57,
@@ -738,7 +794,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "3 squared means 3 times 3, and 3 times 3 equals 9."
   },
   {
     "id": 58,
@@ -751,7 +808,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "Technology"
+    "category": "Technology",
+    "explanation": "The first 'O' in the Google logo is red, one of its four fun colors!"
   },
   {
     "id": 59,
@@ -764,7 +822,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "Triceratops means 'three-horned face' and had two big horns and one small one."
   },
   {
     "id": 60,
@@ -777,7 +836,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "explanation": "A standard guitar has 6 strings that you strum or pluck to make music."
   },
   {
     "id": 61,
@@ -790,7 +850,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "Language"
+    "category": "Language",
+    "explanation": "'Mouse' is a tricky word: one is a mouse, but many are called mice!"
   },
   {
     "id": 62,
@@ -803,7 +864,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Sports"
+    "category": "Sports",
+    "explanation": "A basket shot from behind the curved line, called the arc, is worth 3 points."
   },
   {
     "id": 63,
@@ -816,7 +878,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "easy",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "The Sun is our very own star, much closer than any other star in space."
   },
   {
     "id": 64,
@@ -829,7 +892,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "General Knowledge"
+    "category": "General Knowledge",
+    "explanation": "Guacamole is made mostly from mashed-up avocados, which is why it's creamy and green!"
   },
   {
     "id": 65,
@@ -842,7 +906,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "The Eiffel Tower is a giant iron tower in Paris, the capital of France."
   },
   {
     "id": 66,
@@ -855,7 +920,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "Caterpillars go through amazing changes and turn into beautiful butterflies or moths!"
   },
   {
     "id": 67,
@@ -868,7 +934,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "Half of 50 means splitting 50 into two equal parts, giving you 25 each."
   },
   {
     "id": 68,
@@ -881,7 +948,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "The great Italian artist Leonardo da Vinci painted the Mona Lisa about 500 years ago."
   },
   {
     "id": 69,
@@ -894,7 +962,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "Technology"
+    "category": "Technology",
+    "explanation": "GPS means Global Positioning System, and it uses satellites in space to find where you are."
   },
   {
     "id": 70,
@@ -907,7 +976,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "easy",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Saturn's giant rings are made of ice and rock, and they're easy to spot!"
   },
   {
     "id": 71,
@@ -920,7 +990,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "The giraffe is the tallest animal, with a super long neck to reach leaves high in the trees!"
   },
   {
     "id": 72,
@@ -933,7 +1004,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "easy",
-    "category": "Sports"
+    "category": "Sports",
+    "explanation": "A slam dunk is when a basketball player jumps up and pushes the ball down through the hoop."
   },
   {
     "id": 73,
@@ -946,7 +1018,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "Canberra is Australia's capital, even though Sydney and Melbourne are bigger cities."
   },
   {
     "id": 74,
@@ -959,7 +1032,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "Language"
+    "category": "Language",
+    "explanation": "A synonym is a word that means the same thing, and 'joyful' means happy!"
   },
   {
     "id": 75,
@@ -972,7 +1046,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "easy",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "explanation": "Mario is the famous plumber who jumps over obstacles to rescue Princess Peach!"
   },
   {
     "id": 76,
@@ -985,7 +1060,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Babies are born with more bones, but some join together to make 206 in adults."
   },
   {
     "id": 77,
@@ -998,7 +1074,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "General Knowledge"
+    "category": "General Knowledge",
+    "explanation": "Most countries measure temperature in Celsius, where water freezes at 0 and boils at 100."
   },
   {
     "id": 78,
@@ -1011,7 +1088,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "7 times 8 equals 56, a tricky times-table fact worth remembering!"
   },
   {
     "id": 79,
@@ -1024,7 +1102,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "General Knowledge"
+    "category": "General Knowledge",
+    "explanation": "Rubies are sparkling red gemstones, and their rich red color makes them very popular."
   },
   {
     "id": 80,
@@ -1037,7 +1116,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "easy",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Mercury zips around closest to the Sun, making it very hot on one side."
   },
   {
     "id": 81,
@@ -1050,7 +1130,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "World War II ended in 1945 after six long years of fighting."
   },
   {
     "id": 82,
@@ -1063,7 +1144,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "The Nile in Africa is the longest river, flowing over 6,600 kilometers!"
   },
   {
     "id": 83,
@@ -1076,7 +1158,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "medium",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "On the periodic table, the letter O stands for oxygen, the gas we breathe."
   },
   {
     "id": 84,
@@ -1089,7 +1172,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "American astronaut Neil Armstrong was the first person to step on the Moon in 1969."
   },
   {
     "id": 85,
@@ -1102,7 +1186,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "Area of a rectangle is length times width, so 12 times 5 equals 60."
   },
   {
     "id": 86,
@@ -1115,7 +1200,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "Antarctica is the largest desert because a desert just means very little rain, and it's frozen there."
   },
   {
     "id": 87,
@@ -1128,7 +1214,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "medium",
-    "category": "Sports"
+    "category": "Sports",
+    "explanation": "The very first Olympic Games began long ago in ancient Greece, at a place called Olympia."
   },
   {
     "id": 88,
@@ -1141,7 +1228,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "medium",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Photosynthesis is how plants turn sunlight, water, and air into food."
   },
   {
     "id": 89,
@@ -1154,7 +1242,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "explanation": "Tinker Bell is Peter Pan's tiny fairy friend whose magic dust helps children fly!"
   },
   {
     "id": 90,
@@ -1167,7 +1256,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "A group of wolves is called a pack, and they hunt and live together as a family!"
   },
   {
     "id": 91,
@@ -1180,7 +1270,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "medium",
-    "category": "Technology"
+    "category": "Technology",
+    "explanation": "JavaScript makes web pages do fun things like buttons that move and games that play."
   },
   {
     "id": 92,
@@ -1193,7 +1284,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "medium",
-    "category": "Language"
+    "category": "Language",
+    "explanation": "'Carpe diem' is old Latin that tells us to 'seize the day' and enjoy life!"
   },
   {
     "id": 93,
@@ -1206,7 +1298,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "Pi starts 3.14159..., and rounded to two decimal places it becomes 3.14."
   },
   {
     "id": 94,
@@ -1219,7 +1312,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "India has more people than any other country, over 1.4 billion of them!"
   },
   {
     "id": 95,
@@ -1232,7 +1326,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "medium",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "Bees make sweet honey from flower nectar, and it's yummy on toast!"
   },
   {
     "id": 96,
@@ -1245,7 +1340,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "medium",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "explanation": "William Shakespeare wrote 'Romeo and Juliet' long ago, and people still perform his plays today."
   },
   {
     "id": 97,
@@ -1258,7 +1354,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Table salt is made of sodium (Na) and chlorine (Cl) stuck together as NaCl."
   },
   {
     "id": 98,
@@ -1271,7 +1368,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "The ancient Egyptians built the giant pyramids of Giza as tombs for their kings."
   },
   {
     "id": 99,
@@ -1284,7 +1382,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "Sports"
+    "category": "Sports",
+    "explanation": "In baseball, a home run lets the batter run all the way around the bases to score."
   },
   {
     "id": 100,
@@ -1297,7 +1396,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "Technology"
+    "category": "Technology",
+    "explanation": "RAM means Random Access Memory, the speedy memory a computer uses while it's working."
   },
   {
     "id": 101,
@@ -1310,7 +1410,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "0.75 means 75 out of 100, and 75/100 simplifies to 3/4."
   },
   {
     "id": 102,
@@ -1323,7 +1424,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Your skin is your biggest organ, covering and protecting your whole body!"
   },
   {
     "id": 103,
@@ -1336,7 +1438,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "Kangaroos come from Australia, where they hop around and carry their babies in a pouch!"
   },
   {
     "id": 104,
@@ -1349,7 +1452,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "Language"
+    "category": "Language",
+    "explanation": "'Acro' means high up, so acrophobia is being scared of high places."
   },
   {
     "id": 105,
@@ -1362,7 +1466,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "Ottawa is Canada's capital city, even though Toronto is bigger."
   },
   {
     "id": 106,
@@ -1375,7 +1480,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Most adults grow 32 teeth, including the wisdom teeth at the very back."
   },
   {
     "id": 107,
@@ -1388,7 +1494,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "George Washington became the very first president of the United States in 1789."
   },
   {
     "id": 108,
@@ -1401,7 +1508,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "explanation": "Elijah Wood played Frodo, the brave little hobbit who carries the magic ring on a big adventure."
   },
   {
     "id": 109,
@@ -1414,7 +1522,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "2 to the power of 10 means multiplying ten 2s together, which makes 1024."
   },
   {
     "id": 110,
@@ -1427,7 +1536,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "About 78 percent of the air around us is the gas nitrogen."
   },
   {
     "id": 111,
@@ -1440,7 +1550,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "General Knowledge"
+    "category": "General Knowledge",
+    "explanation": "The Statue of Liberty is covered in copper, which turned green over time from the weather!"
   },
   {
     "id": 112,
@@ -1453,7 +1564,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "Chameleons can change color to hide from danger or show how they are feeling!"
   },
   {
     "id": 113,
@@ -1466,7 +1578,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "medium",
-    "category": "Sports"
+    "category": "Sports",
+    "explanation": "In tennis a score of zero is called 'love', a funny word used instead of nothing."
   },
   {
     "id": 114,
@@ -1479,7 +1592,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "Technology"
+    "category": "Technology",
+    "explanation": "HTTP means HyperText Transfer Protocol, the rules that send web pages to your screen."
   },
   {
     "id": 115,
@@ -1492,7 +1606,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "Language"
+    "category": "Language",
+    "explanation": "More people are born speaking Mandarin Chinese than any other language on Earth!"
   },
   {
     "id": 116,
@@ -1505,7 +1620,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "The huge Amazon Rainforest grows in South America, mostly in Brazil."
   },
   {
     "id": 117,
@@ -1518,7 +1634,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Light is super fast, zooming about 300,000 kilometers every single second!"
   },
   {
     "id": 118,
@@ -1531,7 +1648,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "Explorer Christopher Columbus sailed across the ocean and reached America in 1492."
   },
   {
     "id": 119,
@@ -1544,7 +1662,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "medium",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "A square has 4 equal sides, so 9 + 9 + 9 + 9 gives a perimeter of 36."
   },
   {
     "id": 120,
@@ -1557,7 +1676,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "Leaves make food for the plant using sunlight in a process called photosynthesis!"
   },
   {
     "id": 121,
@@ -1570,7 +1690,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "explanation": "Sony makes the PlayStation, one of the most popular game consoles in the world!"
   },
   {
     "id": 122,
@@ -1583,7 +1704,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "medium",
-    "category": "General Knowledge"
+    "category": "General Knowledge",
+    "explanation": "People in the United Kingdom use the pound sterling to buy things instead of dollars."
   },
   {
     "id": 123,
@@ -1596,7 +1718,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "A hexagon has 6 sides, like the shape of a honeycomb cell!"
   },
   {
     "id": 124,
@@ -1609,7 +1732,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Type O blood can be given safely to almost anyone, so it's the universal donor."
   },
   {
     "id": 125,
@@ -1622,7 +1746,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "Sports"
+    "category": "Sports",
+    "explanation": "Lionel Messi is a famous soccer star known for scoring amazing goals."
   },
   {
     "id": 126,
@@ -1635,7 +1760,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "Language"
+    "category": "Language",
+    "explanation": "The prefix 'bio' means life, which is why biology is the study of living things."
   },
   {
     "id": 127,
@@ -1648,7 +1774,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "Mount Everest in Asia is the tallest, reaching about 8,849 meters into the sky."
   },
   {
     "id": 128,
@@ -1661,7 +1788,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "The huge ship Titanic hit an iceberg and sank in 1912."
   },
   {
     "id": 129,
@@ -1674,7 +1802,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "Technology"
+    "category": "Technology",
+    "explanation": "A QR code is a special pattern of squares that a camera scans to open something quickly."
   },
   {
     "id": 130,
@@ -1687,7 +1816,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "The human heart has four chambers that work together to pump blood."
   },
   {
     "id": 131,
@@ -1700,7 +1830,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "The saltwater crocodile is the biggest reptile and can grow longer than a car!"
   },
   {
     "id": 132,
@@ -1713,7 +1844,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "explanation": "The cello is a large string instrument that you play with a bow while sitting down."
   },
   {
     "id": 133,
@@ -1726,7 +1858,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "The three angles inside any triangle always add up to exactly 180 degrees."
   },
   {
     "id": 134,
@@ -1739,7 +1872,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "Language"
+    "category": "Language",
+    "explanation": "Most South American countries were settled by Spain, so Spanish is spoken the most there."
   },
   {
     "id": 135,
@@ -1752,7 +1886,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "Sports"
+    "category": "Sports",
+    "explanation": "Badminton uses a light, feathery ball called a shuttlecock that players hit with rackets."
   },
   {
     "id": 136,
@@ -1765,7 +1900,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Our solar system lives in a huge spiral galaxy called the Milky Way."
   },
   {
     "id": 137,
@@ -1778,7 +1914,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "The country we now call Iran used to be known as Persia long ago."
   },
   {
     "id": 138,
@@ -1791,7 +1928,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "Technology"
+    "category": "Technology",
+    "explanation": "One gigabyte holds 1024 megabytes, because computers count in powers of two!"
   },
   {
     "id": 139,
@@ -1804,7 +1942,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "medium",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "Acorns are the seeds of oak trees, and squirrels love to bury them for winter!"
   },
   {
     "id": 140,
@@ -1817,7 +1956,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "France has the most time zones, 12, because it owns islands all around the world."
   },
   {
     "id": 141,
@@ -1830,7 +1970,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "medium",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "In Fibonacci you add the last two numbers, and 5 + 8 equals 13."
   },
   {
     "id": 142,
@@ -1843,7 +1984,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "explanation": "'Crescendo' is the musical word that tells players to slowly get louder and louder."
   },
   {
     "id": 143,
@@ -1856,7 +1998,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "medium",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "When sunlight touches your skin, your body makes helpful vitamin D."
   },
   {
     "id": 144,
@@ -1869,7 +2012,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "medium",
-    "category": "Sports"
+    "category": "Sports",
+    "explanation": "Sumo, where big wrestlers try to push each other out of a ring, is Japan's national sport."
   },
   {
     "id": 145,
@@ -1882,7 +2026,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "Language"
+    "category": "Language",
+    "explanation": "'Aqua' is the Latin word for water, which is why an aquarium holds water and fish!"
   },
   {
     "id": 146,
@@ -1895,7 +2040,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "General Knowledge"
+    "category": "General Knowledge",
+    "explanation": "The United States is made up of 50 states, shown by the 50 stars on its flag!"
   },
   {
     "id": 147,
@@ -1908,7 +2054,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "The Berlin Wall split the city of Berlin in two until it came down in 1989."
   },
   {
     "id": 148,
@@ -1921,7 +2068,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "medium",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Tiny water droplets bend sunlight and split it into a colorful rainbow."
   },
   {
     "id": 149,
@@ -1934,7 +2082,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "medium",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "The Great Barrier Reef is a giant coral reef in the sea near Australia."
   },
   {
     "id": 150,
@@ -1947,7 +2096,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "Technology"
+    "category": "Technology",
+    "explanation": "Snapchat is famous for 'Snaps', photos and messages that vanish after you see them."
   },
   {
     "id": 151,
@@ -1960,7 +2110,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "hard",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Gold's symbol Au comes from its old Latin name, 'aurum'."
   },
   {
     "id": 152,
@@ -1973,7 +2124,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "hard",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "Vatican City is the tiniest country, small enough to fit inside a big city!"
   },
   {
     "id": 153,
@@ -1986,7 +2138,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "The French Revolution began in 1789 when people wanted a fairer country."
   },
   {
     "id": 154,
@@ -1999,7 +2152,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "14 times 14 equals 196, so 14 is the square root of 196."
   },
   {
     "id": 155,
@@ -2012,7 +2166,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "hard",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Mitochondria make energy for the cell, so they're called its powerhouse."
   },
   {
     "id": 156,
@@ -2025,7 +2180,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "hard",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "The Mariana Trench in the Pacific is the deepest spot, deeper than Everest is tall."
   },
   {
     "id": 157,
@@ -2038,7 +2194,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "Poseidon was the Greek god who ruled the sea and carried a big three-pronged spear."
   },
   {
     "id": 158,
@@ -2051,7 +2208,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "hard",
-    "category": "Technology"
+    "category": "Technology",
+    "explanation": "Python was created by Guido van Rossum, and he named it after a funny TV comedy show."
   },
   {
     "id": 159,
@@ -2064,7 +2222,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "hard",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "Bats are the only mammals that can truly fly, flapping their wings just like birds!"
   },
   {
     "id": 160,
@@ -2077,7 +2236,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "hard",
-    "category": "Language"
+    "category": "Language",
+    "explanation": "Onomatopoeia is words like 'buzz' and 'splash' that sound like the noise they name!"
   },
   {
     "id": 161,
@@ -2090,7 +2250,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "hard",
-    "category": "Sports"
+    "category": "Sports",
+    "explanation": "Brazil has won the FIFA World Cup 5 times, more than any other country in the world."
   },
   {
     "id": 162,
@@ -2103,7 +2264,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "hard",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "explanation": "Beethoven kept composing beautiful music even after he could no longer hear it at all!"
   },
   {
     "id": 163,
@@ -2116,7 +2278,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "hard",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "M is 1000, CM is 900, XC is 90, and IX is 9, which all add up to 1999."
   },
   {
     "id": 164,
@@ -2129,7 +2292,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "hard",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Hydrogen is the very first and lightest element, with atomic number 1."
   },
   {
     "id": 165,
@@ -2142,7 +2306,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "Genghis Khan ruled the huge Mongol Empire, the biggest connected land empire ever."
   },
   {
     "id": 166,
@@ -2155,7 +2320,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "hard",
-    "category": "General Knowledge"
+    "category": "General Knowledge",
+    "explanation": "In Japan, people pay for things using money called the yen."
   },
   {
     "id": 167,
@@ -2168,7 +2334,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "An omnivore eats both plants and meat, and people are omnivores too!"
   },
   {
     "id": 168,
@@ -2181,7 +2348,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "hard",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "Machu Picchu is an ancient stone city high in the mountains of Peru."
   },
   {
     "id": 169,
@@ -2194,7 +2362,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "hard",
-    "category": "Technology"
+    "category": "Technology",
+    "explanation": "AI means Artificial Intelligence, which is when computers are made to think and learn."
   },
   {
     "id": 170,
@@ -2207,7 +2376,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "hard",
-    "category": "Language"
+    "category": "Language",
+    "explanation": "A haiku is a short Japanese poem with three lines of 5, 7, and 5 syllables."
   },
   {
     "id": 171,
@@ -2220,7 +2390,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "hard",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "The distance around a circle is 2 times Pi times the radius (r)."
   },
   {
     "id": 172,
@@ -2233,7 +2404,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "hard",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "When hot lava cools down and hardens, it forms igneous rock."
   },
   {
     "id": 173,
@@ -2246,7 +2418,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "explanation": "Vincent van Gogh painted 'Starry Night', a famous picture of a swirly, glowing night sky."
   },
   {
     "id": 174,
@@ -2259,7 +2432,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "hard",
-    "category": "Sports"
+    "category": "Sports",
+    "explanation": "In cricket, scoring 100 runs by one batter is called a century, a big achievement!"
   },
   {
     "id": 175,
@@ -2272,7 +2446,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Your liver is the biggest organ inside your body and does hundreds of jobs."
   },
   {
     "id": 176,
@@ -2285,7 +2460,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "The narrow Strait of Gibraltar is the little gap of sea between Europe and Africa."
   },
   {
     "id": 177,
@@ -2298,7 +2474,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "Ancient Egyptians wrote using hieroglyphics, picture symbols that stood for words and sounds."
   },
   {
     "id": 178,
@@ -2311,7 +2488,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "Technology"
+    "category": "Technology",
+    "explanation": "In binary, 1010 equals 10, because it means 8 plus 2 added together."
   },
   {
     "id": 179,
@@ -2324,7 +2502,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "Roots drink up water and food from the soil to help the whole plant grow big and strong!"
   },
   {
     "id": 180,
@@ -2337,7 +2516,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "Language"
+    "category": "Language",
+    "explanation": "The past tense of 'swim' is 'swam', like 'Yesterday I swam in the pool.'"
   },
   {
     "id": 181,
@@ -2350,7 +2530,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "hard",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "3 times 3 plus 4 times 4 equals 5 times 5, so it makes a perfect right angle."
   },
   {
     "id": 182,
@@ -2363,7 +2544,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "hard",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Absolute zero is the coldest anything can get, at about -273 degrees Celsius."
   },
   {
     "id": 183,
@@ -2376,7 +2558,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "Alexander Graham Bell invented the telephone in 1876, letting people talk far away."
   },
   {
     "id": 184,
@@ -2389,7 +2572,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "hard",
-    "category": "Sports"
+    "category": "Sports",
+    "explanation": "Golf uses fun words like birdie and eagle to describe how few hits it takes to sink the ball."
   },
   {
     "id": 185,
@@ -2402,7 +2586,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "hard",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Sublimation is when a solid, like dry ice, turns straight into a gas."
   },
   {
     "id": 186,
@@ -2415,7 +2600,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "hard",
-    "category": "Entertainment"
+    "category": "Entertainment",
+    "explanation": "The 'Despicable Me' movies, with their silly yellow Minions, are the top-earning animated series ever!"
   },
   {
     "id": 187,
@@ -2428,7 +2614,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "Wellington is the capital of New Zealand, even though Auckland is bigger."
   },
   {
     "id": 188,
@@ -2441,7 +2628,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "hard",
-    "category": "Technology"
+    "category": "Technology",
+    "explanation": "LAN means Local Area Network, a group of computers connected in one place like a school."
   },
   {
     "id": 189,
@@ -2454,7 +2642,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "The femur, your thigh bone, is the longest and strongest bone in your body."
   },
   {
     "id": 190,
@@ -2467,7 +2656,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "Nature"
+    "category": "Nature",
+    "explanation": "A group of fish swimming together is called a school, and they move as one big team!"
   },
   {
     "id": 191,
@@ -2480,7 +2670,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "hard",
-    "category": "Language"
+    "category": "Language",
+    "explanation": "A simile compares things using 'like' or 'as', such as 'as brave as a lion.'"
   },
   {
     "id": 192,
@@ -2493,7 +2684,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "hard",
-    "category": "Math"
+    "category": "Math",
+    "explanation": "17 times 17 equals 289, so 17 squared is 289."
   },
   {
     "id": 193,
@@ -2506,7 +2698,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "Mathematicians in ancient India were the first to use zero as a real number."
   },
   {
     "id": 194,
@@ -2519,7 +2712,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Diffraction happens when light bends around the edges of an object."
   },
   {
     "id": 195,
@@ -2532,7 +2726,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "Sports"
+    "category": "Sports",
+    "explanation": "The first modern Olympic Games were held in Athens, Greece, in the year 1896."
   },
   {
     "id": 196,
@@ -2545,7 +2740,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "hard",
-    "category": "General Knowledge"
+    "category": "General Knowledge",
+    "explanation": "The Richter scale tells scientists how strong an earthquake is when the ground shakes."
   },
   {
     "id": 197,
@@ -2558,7 +2754,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "hard",
-    "category": "Geography"
+    "category": "Geography",
+    "explanation": "The Volga is Europe's longest river, winding across Russia for about 3,500 kilometers."
   },
   {
     "id": 198,
@@ -2571,7 +2768,8 @@
     ],
     "correctAnswer": 3,
     "difficulty": "hard",
-    "category": "General Knowledge"
+    "category": "General Knowledge",
+    "explanation": "STEM stands for Science, Technology, Engineering, and Mathematics, all fun subjects to learn!"
   },
   {
     "id": 199,
@@ -2584,7 +2782,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "Science"
+    "category": "Science",
+    "explanation": "Iron's symbol Fe comes from its old Latin name, 'ferrum'."
   },
   {
     "id": 200,
@@ -2597,7 +2796,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "'Renaissance' is a French word that means 'rebirth', a time of new art and ideas."
   },
   {
     "id": 201,
@@ -2610,7 +2810,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "The kings of ancient Egypt were called pharaohs and were seen as very powerful."
   },
   {
     "id": 202,
@@ -2623,7 +2824,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "Knights wore metal armour to protect their bodies from swords and arrows."
   },
   {
     "id": 203,
@@ -2636,7 +2838,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "Kings and queens long ago lived in big stone castles with tall walls."
   },
   {
     "id": 204,
@@ -2649,7 +2852,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "Vikings sailed the seas in long, narrow wooden boats called longships."
   },
   {
     "id": 205,
@@ -2662,7 +2866,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "The giant pointed stone tombs in Egypt are called pyramids."
   },
   {
     "id": 206,
@@ -2675,7 +2880,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "In the Stone Age, people made their tools and weapons out of hard stone."
   },
   {
     "id": 207,
@@ -2688,7 +2894,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "Before cars, people often rode horses to travel from place to place."
   },
   {
     "id": 208,
@@ -2701,7 +2908,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "The Romans watched gladiators fight in a huge round arena called the Colosseum."
   },
   {
     "id": 209,
@@ -2714,7 +2922,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "An archaeologist digs up old objects and bones to learn about the past."
   },
   {
     "id": 210,
@@ -2727,7 +2936,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "The wrapped-up bodies in Egyptian tombs are called mummies."
   },
   {
     "id": 211,
@@ -2740,7 +2950,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "Cave people painted animals like bison and deer on their cave walls."
   },
   {
     "id": 212,
@@ -2753,7 +2964,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "The round wheel helped early people build carts to move heavy loads."
   },
   {
     "id": 213,
@@ -2766,7 +2978,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "In the old legends, Robin Hood took from the rich to help the poor."
   },
   {
     "id": 214,
@@ -2779,7 +2992,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "The pharaohs were the kings who ruled ancient Egypt."
   },
   {
     "id": 215,
@@ -2792,7 +3006,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "In the legends, King Arthur sat with his knights at a famous round table."
   },
   {
     "id": 216,
@@ -2805,7 +3020,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "Before electricity, people burned candles to light up their homes at night."
   },
   {
     "id": 217,
@@ -2818,7 +3034,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "easy",
-    "category": "History"
+    "category": "History",
+    "explanation": "Prehistoric times were the very long ago days before people wrote things down."
   },
   {
     "id": 218,
@@ -2831,7 +3048,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "Columbus's three ships were the Nina, the Pinta, and the Santa Maria."
   },
   {
     "id": 219,
@@ -2844,7 +3062,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "Cleopatra was the famous last queen of ancient Egypt."
   },
   {
     "id": 220,
@@ -2857,7 +3076,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "The Romans built stone channels called aqueducts to carry water to their cities."
   },
   {
     "id": 221,
@@ -2870,7 +3090,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "Florence Nightingale carried a lamp at night while caring for wounded soldiers."
   },
   {
     "id": 222,
@@ -2883,7 +3104,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "President Abraham Lincoln helped end slavery in the United States in the 1860s."
   },
   {
     "id": 223,
@@ -2896,7 +3118,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "In the story, Greek soldiers hid inside a giant wooden horse to sneak into Troy."
   },
   {
     "id": 224,
@@ -2909,7 +3132,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "Joan of Arc was a brave French girl who led soldiers and later became a saint."
   },
   {
     "id": 225,
@@ -2922,7 +3146,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "Isaac Newton described gravity, the force that pulls things down to the ground."
   },
   {
     "id": 226,
@@ -2935,7 +3160,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "The ancient Greeks held the very first Olympic Games over 2,700 years ago."
   },
   {
     "id": 227,
@@ -2948,7 +3174,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "Queen Victoria ruled Britain for 63 years during the 1800s."
   },
   {
     "id": 228,
@@ -2961,7 +3188,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "Ancient Egyptians made paper called papyrus from a tall plant by the Nile River."
   },
   {
     "id": 229,
@@ -2974,7 +3202,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "Amelia Earhart was the first woman to fly alone across the Atlantic Ocean."
   },
   {
     "id": 230,
@@ -2987,7 +3216,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "medium",
-    "category": "History"
+    "category": "History",
+    "explanation": "The Pilgrims sailed to America on a ship called the Mayflower in 1620."
   },
   {
     "id": 231,
@@ -3000,7 +3230,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "The Roman city of Pompeii was buried in ash when Mount Vesuvius erupted."
   },
   {
     "id": 232,
@@ -3013,7 +3244,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "William Shakespeare wrote 'Romeo and Juliet' and many other famous plays."
   },
   {
     "id": 233,
@@ -3026,7 +3258,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "Napoleon was a great general who became emperor and ruled France in the early 1800s."
   },
   {
     "id": 234,
@@ -3039,7 +3272,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "The Inca people built the amazing mountain city of Machu Picchu in Peru."
   },
   {
     "id": 235,
@@ -3052,7 +3286,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "The Great Sphinx has a human head and the body of a mighty lion."
   },
   {
     "id": 236,
@@ -3065,7 +3300,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "Mahatma Gandhi helped free India by leading peaceful protests, not fighting."
   },
   {
     "id": 237,
@@ -3078,7 +3314,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "Alexander the Great conquered a giant empire before he turned 33 years old."
   },
   {
     "id": 238,
@@ -3091,7 +3328,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "The ancient Aztec people lived in the land that is now called Mexico."
   },
   {
     "id": 239,
@@ -3104,7 +3342,8 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "Martin Luther King Jr. gave the famous 'I Have a Dream' speech in 1963."
   },
   {
     "id": 240,
@@ -3117,7 +3356,8 @@
     ],
     "correctAnswer": 1,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "The Middle Ages was the time in Europe of knights, castles and lords."
   },
   {
     "id": 241,
@@ -3130,7 +3370,8 @@
     ],
     "correctAnswer": 2,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "The Terracotta Army of clay soldiers was found buried in China."
   },
   {
     "id": 242,
@@ -3143,6 +3384,1631 @@
     ],
     "correctAnswer": 0,
     "difficulty": "hard",
-    "category": "History"
+    "category": "History",
+    "explanation": "Ferdinand Magellan led the first voyage that sailed all the way around the world."
+  },
+  {
+    "id": 243,
+    "question": "In the movie 'Frozen', what is the name of Elsa's sister?",
+    "answers": [
+      "Anna",
+      "Elsa",
+      "Rapunzel",
+      "Merida"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Entertainment",
+    "explanation": "Anna is Elsa's loving sister who goes on a big adventure to save their icy kingdom!"
+  },
+  {
+    "id": 244,
+    "question": "What color is the cartoon character SpongeBob SquarePants?",
+    "answers": [
+      "Blue",
+      "Green",
+      "Yellow",
+      "Pink"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Entertainment",
+    "explanation": "SpongeBob is a cheerful yellow sponge who lives in a pineapple under the sea!"
+  },
+  {
+    "id": 245,
+    "question": "In fairy tales, what does Little Red Riding Hood carry to her grandmother?",
+    "answers": [
+      "A puppy",
+      "A basket of food",
+      "A magic wand",
+      "A golden crown"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Entertainment",
+    "explanation": "Little Red Riding Hood carries a basket of yummy food to her grandmother's house in the woods."
+  },
+  {
+    "id": 246,
+    "question": "Which animal is Winnie the Pooh?",
+    "answers": [
+      "A tiger",
+      "A rabbit",
+      "A pig",
+      "A bear"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "Entertainment",
+    "explanation": "Winnie the Pooh is a friendly yellow bear who loves eating honey!"
+  },
+  {
+    "id": 247,
+    "question": "In 'Toy Story', what kind of toy is Woody?",
+    "answers": [
+      "A cowboy",
+      "A robot",
+      "A dinosaur",
+      "A race car"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Entertainment",
+    "explanation": "Woody is a pull-string cowboy toy who is the leader of Andy's toys!"
+  },
+  {
+    "id": 248,
+    "question": "In the fairy tale, what made the princess unable to sleep in 'The Princess and the Pea'?",
+    "answers": [
+      "A loud noise",
+      "A tiny pea under the mattresses",
+      "A cold wind",
+      "A barking dog"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Entertainment",
+    "explanation": "A single tiny pea under many mattresses kept the real princess awake all night!"
+  },
+  {
+    "id": 249,
+    "question": "Which famous mouse did Walt Disney create?",
+    "answers": [
+      "Jerry Mouse",
+      "Stuart Little",
+      "Mickey Mouse",
+      "Speedy Gonzales"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Entertainment",
+    "explanation": "Walt Disney created Mickey Mouse, one of the most famous cartoon characters ever made!"
+  },
+  {
+    "id": 250,
+    "question": "In 'The Jungle Book', what type of animal is Baloo?",
+    "answers": [
+      "A bear",
+      "A tiger",
+      "A snake",
+      "A monkey"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Entertainment",
+    "explanation": "Baloo is a big, easygoing bear who teaches Mowgli about the 'bare necessities' of life!"
+  },
+  {
+    "id": 251,
+    "question": "Who wrote the children's book 'Charlie and the Chocolate Factory'?",
+    "answers": [
+      "Dr. Seuss",
+      "Roald Dahl",
+      "J.K. Rowling",
+      "Beatrix Potter"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Entertainment",
+    "explanation": "Roald Dahl wrote 'Charlie and the Chocolate Factory' along with many other fun children's books!"
+  },
+  {
+    "id": 252,
+    "question": "How many musicians usually play together in a 'quartet'?",
+    "answers": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Entertainment",
+    "explanation": "A quartet is a group of four musicians playing together, because 'quart' means four!"
+  },
+  {
+    "id": 253,
+    "question": "Which composer wrote music when he was only a young child, over 200 years ago?",
+    "answers": [
+      "Wolfgang Amadeus Mozart",
+      "Elvis Presley",
+      "The Beatles",
+      "Louis Armstrong"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Entertainment",
+    "explanation": "Mozart was a musical genius who started writing his own music when he was just a little kid!"
+  },
+  {
+    "id": 254,
+    "question": "In classic cartoons, what does Bugs Bunny like to munch on?",
+    "answers": [
+      "Cheese",
+      "A carrot",
+      "An apple",
+      "A banana"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Entertainment",
+    "explanation": "Bugs Bunny is famous for chomping on a carrot while saying 'What's up, Doc?'"
+  },
+  {
+    "id": 255,
+    "question": "How many colors are in a rainbow?",
+    "answers": [
+      "Five",
+      "Seven",
+      "Nine",
+      "Three"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "explanation": "A rainbow has seven colors: red, orange, yellow, green, blue, indigo, and violet!"
+  },
+  {
+    "id": 256,
+    "question": "What do bees make that we love to eat?",
+    "answers": [
+      "Honey",
+      "Butter",
+      "Jam",
+      "Syrup"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "explanation": "Bees make sweet, sticky honey from the nectar they collect in flowers!"
+  },
+  {
+    "id": 257,
+    "question": "How many days are in one week?",
+    "answers": [
+      "Five",
+      "Six",
+      "Seven",
+      "Ten"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "explanation": "There are seven days in a week, from Monday all the way to Sunday!"
+  },
+  {
+    "id": 258,
+    "question": "What part of your body do you use to smell?",
+    "answers": [
+      "Ears",
+      "Eyes",
+      "Hands",
+      "Nose"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "explanation": "You use your nose to smell yummy food and pretty flowers all around you!"
+  },
+  {
+    "id": 259,
+    "question": "What color do you get when you mix blue and yellow?",
+    "answers": [
+      "Green",
+      "Purple",
+      "Orange",
+      "Brown"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "explanation": "Mixing blue and yellow paint together makes the bright color green!"
+  },
+  {
+    "id": 260,
+    "question": "How many months are in one year?",
+    "answers": [
+      "Ten",
+      "Twelve",
+      "Fourteen",
+      "Twenty"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "explanation": "A year has twelve months, starting with January and ending with December!"
+  },
+  {
+    "id": 261,
+    "question": "Which of these is a vegetable?",
+    "answers": [
+      "Banana",
+      "Carrot",
+      "Cherry",
+      "Peach"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "explanation": "A carrot is a crunchy orange vegetable that grows under the ground!"
+  },
+  {
+    "id": 262,
+    "question": "What is frozen water called?",
+    "answers": [
+      "Steam",
+      "Rain",
+      "Ice",
+      "Mud"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "explanation": "When water gets very cold and freezes, it turns into hard, solid ice!"
+  },
+  {
+    "id": 263,
+    "question": "What organ pumps blood around your body?",
+    "answers": [
+      "Heart",
+      "Lungs",
+      "Brain",
+      "Stomach"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "explanation": "Your heart is a strong muscle that pumps blood all around your body every day!"
+  },
+  {
+    "id": 264,
+    "question": "How many minutes are in one hour?",
+    "answers": [
+      "Thirty",
+      "Sixty",
+      "Ninety",
+      "One hundred"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "explanation": "There are sixty minutes in one hour, just like sixty seconds make one minute!"
+  },
+  {
+    "id": 265,
+    "question": "What is the capital city of England?",
+    "answers": [
+      "Manchester",
+      "London",
+      "Liverpool",
+      "Oxford"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Geography",
+    "explanation": "London is England's capital, famous for Big Ben and the red double-decker buses."
+  },
+  {
+    "id": 266,
+    "question": "Which of these is a country?",
+    "answers": [
+      "Paris",
+      "Brazil",
+      "Everest",
+      "Nile"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Geography",
+    "explanation": "Brazil is a big country in South America, while the others are a city, mountain, and river."
+  },
+  {
+    "id": 267,
+    "question": "What do we call a piece of land with water all around it?",
+    "answers": [
+      "An island",
+      "A desert",
+      "A mountain",
+      "A valley"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Geography",
+    "explanation": "An island is land completely surrounded by water, like a spot in the middle of the sea."
+  },
+  {
+    "id": 268,
+    "question": "Which continent do kangaroos come from?",
+    "answers": [
+      "Africa",
+      "Europe",
+      "Australia",
+      "Asia"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Geography",
+    "explanation": "Kangaroos hop around in Australia, which is both a country and a continent."
+  },
+  {
+    "id": 269,
+    "question": "What is the biggest continent on Earth?",
+    "answers": [
+      "Asia",
+      "Africa",
+      "Europe",
+      "North America"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Geography",
+    "explanation": "Asia is the largest continent and has the most people living on it too."
+  },
+  {
+    "id": 270,
+    "question": "What is the capital of Italy?",
+    "answers": [
+      "Venice",
+      "Milan",
+      "Naples",
+      "Rome"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Geography",
+    "explanation": "Rome is Italy's capital and home to the ancient Colosseum arena."
+  },
+  {
+    "id": 271,
+    "question": "Which imaginary line goes around the middle of the Earth?",
+    "answers": [
+      "The Equator",
+      "The North Pole",
+      "The Tropic Line",
+      "The Border"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Geography",
+    "explanation": "The Equator is the invisible line halfway between the North and South Poles."
+  },
+  {
+    "id": 272,
+    "question": "Which country is home to the Great Wall?",
+    "answers": [
+      "Japan",
+      "China",
+      "India",
+      "Thailand"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Geography",
+    "explanation": "The Great Wall of China is so long it stretches for thousands of kilometers!"
+  },
+  {
+    "id": 273,
+    "question": "What is the largest country in the world by area?",
+    "answers": [
+      "Canada",
+      "China",
+      "Russia",
+      "United States"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Geography",
+    "explanation": "Russia is the biggest country, so huge it spreads across both Europe and Asia."
+  },
+  {
+    "id": 274,
+    "question": "Which mountain range separates France from Spain?",
+    "answers": [
+      "The Alps",
+      "The Andes",
+      "The Pyrenees",
+      "The Rockies"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Geography",
+    "explanation": "The Pyrenees mountains form the natural border between France and Spain."
+  },
+  {
+    "id": 275,
+    "question": "What is the capital of Brazil?",
+    "answers": [
+      "Brasilia",
+      "Rio de Janeiro",
+      "Sao Paulo",
+      "Salvador"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Geography",
+    "explanation": "Brasilia is Brazil's capital, a modern city built specially to be the capital."
+  },
+  {
+    "id": 276,
+    "question": "Which African country is the Sahara Desert NOT found in?",
+    "answers": [
+      "Egypt",
+      "Algeria",
+      "Libya",
+      "South Africa"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "hard",
+    "category": "Geography",
+    "explanation": "The Sahara covers northern Africa, but South Africa is far away at the bottom of the continent."
+  },
+  {
+    "id": 277,
+    "question": "What do we call a person who is a king or queen's child, like a prince or princess?",
+    "answers": [
+      "Royalty",
+      "A farmer",
+      "A soldier",
+      "A sailor"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "History",
+    "explanation": "Kings, queens, princes and princesses are all part of a family called royalty."
+  },
+  {
+    "id": 278,
+    "question": "What famous clock tower stands in London, England?",
+    "answers": [
+      "Space Needle",
+      "Big Ben",
+      "Eiffel Tower",
+      "Leaning Tower"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "History",
+    "explanation": "Big Ben is the famous bell inside the tall clock tower in London."
+  },
+  {
+    "id": 279,
+    "question": "Long ago, before pencils, people often wrote with a feather dipped in what?",
+    "answers": [
+      "Milk",
+      "Water",
+      "Ink",
+      "Juice"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "History",
+    "explanation": "People wrote by dipping a feather, called a quill, into dark ink."
+  },
+  {
+    "id": 280,
+    "question": "What do we call a story about the past that grown-ups pass down but may not be fully true?",
+    "answers": [
+      "A legend",
+      "A recipe",
+      "A map",
+      "A song"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "History",
+    "explanation": "A legend is an old story from the past that has been told again and again."
+  },
+  {
+    "id": 281,
+    "question": "Cowboys in the old American West rode horses and looked after herds of what animal?",
+    "answers": [
+      "Penguins",
+      "Cattle",
+      "Tigers",
+      "Whales"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "History",
+    "explanation": "Cowboys rode horses to herd and take care of large groups of cattle."
+  },
+  {
+    "id": 282,
+    "question": "Which explorer's ship, the Endeavour, sailed to Australia and New Zealand?",
+    "answers": [
+      "Marco Polo",
+      "Christopher Columbus",
+      "Captain Cook",
+      "Vasco da Gama"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "History",
+    "explanation": "Captain James Cook sailed the Endeavour to explore Australia and New Zealand."
+  },
+  {
+    "id": 283,
+    "question": "The Great Fire of London happened in which year?",
+    "answers": [
+      "1666",
+      "1900",
+      "1500",
+      "1815"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "History",
+    "explanation": "The Great Fire of London burned much of the city in the year 1666."
+  },
+  {
+    "id": 284,
+    "question": "Which country did the samurai warriors come from?",
+    "answers": [
+      "Brazil",
+      "Japan",
+      "Egypt",
+      "Canada"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "History",
+    "explanation": "Samurai were brave sword-fighting warriors from long-ago Japan."
+  },
+  {
+    "id": 285,
+    "question": "Who was the young Egyptian pharaoh whose golden tomb was found full of treasure?",
+    "answers": [
+      "Ramses",
+      "Cleopatra",
+      "Tutankhamun",
+      "Nefertiti"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "History",
+    "explanation": "Tutankhamun, often called King Tut, had a golden tomb found packed with treasure."
+  },
+  {
+    "id": 286,
+    "question": "In which country was the ancient Colosseum built?",
+    "answers": [
+      "Greece",
+      "Spain",
+      "Egypt",
+      "Italy"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "hard",
+    "category": "History",
+    "explanation": "The huge Colosseum was built by the Romans in Rome, which is in Italy."
+  },
+  {
+    "id": 287,
+    "question": "Which explorer travelled along the Silk Road to China and wrote about his adventures?",
+    "answers": [
+      "Marco Polo",
+      "Neil Armstrong",
+      "Robin Hood",
+      "King Arthur"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "History",
+    "explanation": "Marco Polo journeyed all the way to China and shared amazing stories of his travels."
+  },
+  {
+    "id": 288,
+    "question": "What was the name of the huge lizard-like reptiles that ruled the Earth long before people?",
+    "answers": [
+      "Dragons",
+      "Dinosaurs",
+      "Camels",
+      "Elephants"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "History",
+    "explanation": "Dinosaurs were giant reptiles that lived on Earth millions of years before humans."
+  },
+  {
+    "id": 289,
+    "question": "What is the opposite of 'hot'?",
+    "answers": [
+      "Warm",
+      "Cold",
+      "Sunny",
+      "Fast"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Language",
+    "explanation": "'Cold' is the opposite of 'hot', like ice cream compared to hot soup!"
+  },
+  {
+    "id": 290,
+    "question": "How many vowels are in the English alphabet (A, E, I, O, U)?",
+    "answers": [
+      "Five",
+      "Three",
+      "Seven",
+      "Four"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Language",
+    "explanation": "There are five vowels, A, E, I, O and U, and every other letter is a consonant!"
+  },
+  {
+    "id": 291,
+    "question": "What is the plural of 'cat'?",
+    "answers": [
+      "Cate",
+      "Caties",
+      "Cats",
+      "Catss"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Language",
+    "explanation": "For most words we just add an 's' to make more than one, so it's 'cats'!"
+  },
+  {
+    "id": 292,
+    "question": "Which word is spelled correctly?",
+    "answers": [
+      "Freind",
+      "Friend",
+      "Frend",
+      "Friund"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Language",
+    "explanation": "'Friend' is spelled with an 'i' before the 'e', so remember your fri-END is at the end!"
+  },
+  {
+    "id": 293,
+    "question": "What is a word that means the same as 'big'?",
+    "answers": [
+      "Tiny",
+      "Large",
+      "Quiet",
+      "Slow"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Language",
+    "explanation": "'Large' means the same as 'big', so a large dog is a big dog!"
+  },
+  {
+    "id": 294,
+    "question": "What is the main language spoken in France?",
+    "answers": [
+      "Italian",
+      "German",
+      "French",
+      "Greek"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Language",
+    "explanation": "People in France speak French, where 'hello' is 'bonjour'!"
+  },
+  {
+    "id": 295,
+    "question": "Which word is a noun (a person, place, or thing)?",
+    "answers": [
+      "Run",
+      "Happy",
+      "Table",
+      "Quickly"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Language",
+    "explanation": "A 'table' is a thing, and words for people, places or things are called nouns!"
+  },
+  {
+    "id": 296,
+    "question": "What is the past tense of 'go'?",
+    "answers": [
+      "Goed",
+      "Went",
+      "Gone",
+      "Going"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Language",
+    "explanation": "'Go' is a tricky word: yesterday you 'went' instead of 'goed'!"
+  },
+  {
+    "id": 297,
+    "question": "What does the prefix 'tri' mean, as in 'tricycle'?",
+    "answers": [
+      "One",
+      "Two",
+      "Three",
+      "Four"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Language",
+    "explanation": "'Tri' means three, which is why a tricycle has three wheels!"
+  },
+  {
+    "id": 298,
+    "question": "What is the plural of 'child'?",
+    "answers": [
+      "Children",
+      "Childs",
+      "Childes",
+      "Childrens"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Language",
+    "explanation": "'Child' is unusual: one child, but many children instead of 'childs'!"
+  },
+  {
+    "id": 299,
+    "question": "A word that gives an action, like 'jump' or 'sing', is called what?",
+    "answers": [
+      "An adjective",
+      "A verb",
+      "A noun",
+      "A pronoun"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Language",
+    "explanation": "A verb is a doing word, like 'jump', 'run' or 'sing', that shows an action!"
+  },
+  {
+    "id": 300,
+    "question": "What does the word 'brief' mean?",
+    "answers": [
+      "Very long",
+      "Short",
+      "Loud",
+      "Heavy"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Language",
+    "explanation": "'Brief' means short, so a brief story is one that doesn't take long to tell!"
+  },
+  {
+    "id": 301,
+    "question": "What is 6 + 7?",
+    "answers": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Math",
+    "explanation": "If you start at 6 and count up 7 more, you land on 13."
+  },
+  {
+    "id": 302,
+    "question": "How many minutes are there in one hour?",
+    "answers": [
+      "30",
+      "50",
+      "60",
+      "100"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Math",
+    "explanation": "A clock's minute hand goes all the way around once every hour, which is 60 minutes."
+  },
+  {
+    "id": 303,
+    "question": "How many sides does a square have?",
+    "answers": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Math",
+    "explanation": "A square has 4 sides that are all exactly the same length."
+  },
+  {
+    "id": 304,
+    "question": "What is 10 - 4?",
+    "answers": [
+      "5",
+      "7",
+      "6",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Math",
+    "explanation": "Taking 4 away from 10 leaves you with 6."
+  },
+  {
+    "id": 305,
+    "question": "How many cents are in one dollar?",
+    "answers": [
+      "100",
+      "50",
+      "10",
+      "1000"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Math",
+    "explanation": "One dollar is made up of 100 cents, like 100 pennies."
+  },
+  {
+    "id": 306,
+    "question": "What is 9 x 3?",
+    "answers": [
+      "21",
+      "24",
+      "27",
+      "30"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Math",
+    "explanation": "9 times 3 means 9 + 9 + 9, which adds up to 27."
+  },
+  {
+    "id": 307,
+    "question": "What is half of 100?",
+    "answers": [
+      "25",
+      "60",
+      "40",
+      "50"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Math",
+    "explanation": "Splitting 100 into two equal parts gives you 50 in each."
+  },
+  {
+    "id": 308,
+    "question": "How many months are there in one year?",
+    "answers": [
+      "10",
+      "12",
+      "24",
+      "7"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Math",
+    "explanation": "A year has 12 months, from January all the way to December."
+  },
+  {
+    "id": 309,
+    "question": "What is 100 divided by 5?",
+    "answers": [
+      "20",
+      "25",
+      "15",
+      "50"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Math",
+    "explanation": "Sharing 100 into 5 equal groups gives you 20 in each group."
+  },
+  {
+    "id": 310,
+    "question": "How many sides does a pentagon have?",
+    "answers": [
+      "4",
+      "6",
+      "5",
+      "7"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Math",
+    "explanation": "A pentagon has 5 sides, and 'penta' is a word meaning five."
+  },
+  {
+    "id": 311,
+    "question": "What is 12 x 12?",
+    "answers": [
+      "124",
+      "144",
+      "132",
+      "154"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Math",
+    "explanation": "12 times 12, the top of the times table, equals 144."
+  },
+  {
+    "id": 312,
+    "question": "What is 3/4 plus 1/4?",
+    "answers": [
+      "1",
+      "2/4",
+      "4/8",
+      "1/2"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Math",
+    "explanation": "3 quarters plus 1 quarter makes 4 quarters, which is one whole."
+  },
+  {
+    "id": 313,
+    "question": "What do we call baby frogs that live in water before they grow legs?",
+    "answers": [
+      "Tadpoles",
+      "Chicks",
+      "Cubs",
+      "Larvae"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Nature",
+    "explanation": "Baby frogs are called tadpoles, and they swim with a tail before growing legs and hopping away!"
+  },
+  {
+    "id": 314,
+    "question": "What color are most leaves in the summer?",
+    "answers": [
+      "Blue",
+      "Green",
+      "Purple",
+      "Orange"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Nature",
+    "explanation": "Leaves are green because they are full of a special stuff called chlorophyll that catches sunlight!"
+  },
+  {
+    "id": 315,
+    "question": "What do we call frozen rain that falls in winter?",
+    "answers": [
+      "Fog",
+      "Rainbow",
+      "Snow",
+      "Thunder"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Nature",
+    "explanation": "Snow is frozen water that floats down as fluffy flakes when it gets really cold outside!"
+  },
+  {
+    "id": 316,
+    "question": "Which of these animals lives in the ocean?",
+    "answers": [
+      "Camel",
+      "Octopus",
+      "Kangaroo",
+      "Squirrel"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Nature",
+    "explanation": "The octopus lives in the ocean and has eight wiggly arms to help it grab and swim!"
+  },
+  {
+    "id": 317,
+    "question": "What does a bird build to lay its eggs in?",
+    "answers": [
+      "A den",
+      "A web",
+      "A burrow",
+      "A nest"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "Nature",
+    "explanation": "Birds build cozy nests out of twigs and grass to keep their eggs safe and warm!"
+  },
+  {
+    "id": 318,
+    "question": "What do plants need from the Sun to help them grow?",
+    "answers": [
+      "Light",
+      "Sound",
+      "Wind",
+      "Snow"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Nature",
+    "explanation": "Plants use the Sun's light to make their own food, so sunlight helps them grow tall!"
+  },
+  {
+    "id": 319,
+    "question": "Which animal has a long trunk it uses to drink water and grab food?",
+    "answers": [
+      "Rhino",
+      "Elephant",
+      "Hippo",
+      "Buffalo"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Nature",
+    "explanation": "An elephant's trunk is like a super-nose and hand all in one, great for drinking and grabbing!"
+  },
+  {
+    "id": 320,
+    "question": "What do we call the season when leaves change color and fall from the trees?",
+    "answers": [
+      "Spring",
+      "Summer",
+      "Autumn",
+      "Winter"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Nature",
+    "explanation": "In autumn the leaves turn red, orange, and yellow before drifting down to the ground!"
+  },
+  {
+    "id": 321,
+    "question": "Which sea creature is known for having a hard shell and moving very slowly on land?",
+    "answers": [
+      "Dolphin",
+      "Shark",
+      "Jellyfish",
+      "Turtle"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Nature",
+    "explanation": "Turtles carry a hard shell on their backs like a shield and can hide inside it for safety!"
+  },
+  {
+    "id": 322,
+    "question": "What is the name of the biggest bird in the world, which cannot fly?",
+    "answers": [
+      "Ostrich",
+      "Eagle",
+      "Penguin",
+      "Peacock"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Nature",
+    "explanation": "The ostrich is the biggest bird, and instead of flying it runs super fast on its long legs!"
+  },
+  {
+    "id": 323,
+    "question": "What gas do plants take in from the air to help them make food?",
+    "answers": [
+      "Oxygen",
+      "Carbon dioxide",
+      "Helium",
+      "Steam"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Nature",
+    "explanation": "Plants breathe in carbon dioxide to make food, and they give us oxygen to breathe in return!"
+  },
+  {
+    "id": 324,
+    "question": "What do we call an animal that only comes out and hunts at night?",
+    "answers": [
+      "Migratory",
+      "Aquatic",
+      "Nocturnal",
+      "Tropical"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Nature",
+    "explanation": "Nocturnal animals like owls and bats sleep in the day and come out to hunt at night!"
+  },
+  {
+    "id": 325,
+    "question": "What is the center of the Earth called?",
+    "answers": [
+      "The core",
+      "The crust",
+      "The shell",
+      "The middle"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Science",
+    "explanation": "Deep inside our planet is the core, which is incredibly hot and mostly metal."
+  },
+  {
+    "id": 326,
+    "question": "What do we call baby frogs?",
+    "answers": [
+      "Chicks",
+      "Cubs",
+      "Tadpoles",
+      "Kittens"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Science",
+    "explanation": "Baby frogs are called tadpoles, and they swim with tails before growing legs."
+  },
+  {
+    "id": 327,
+    "question": "Which sense do you use your nose for?",
+    "answers": [
+      "Seeing",
+      "Hearing",
+      "Tasting",
+      "Smelling"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "Science",
+    "explanation": "Your nose lets you smell things, from tasty food to beautiful flowers."
+  },
+  {
+    "id": 328,
+    "question": "What is a young sheep called?",
+    "answers": [
+      "Foal",
+      "Lamb",
+      "Calf",
+      "Piglet"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Science",
+    "explanation": "A baby sheep is called a lamb, and its soft wool keeps it warm."
+  },
+  {
+    "id": 329,
+    "question": "How many planets are in our solar system?",
+    "answers": [
+      "Seven",
+      "Nine",
+      "Eight",
+      "Ten"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Science",
+    "explanation": "There are eight planets orbiting our Sun, from tiny Mercury to giant Neptune."
+  },
+  {
+    "id": 330,
+    "question": "What part of a plant grows underground and soaks up water?",
+    "answers": [
+      "Roots",
+      "Leaves",
+      "Flowers",
+      "Stem"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Science",
+    "explanation": "Roots grow down into the soil to drink up water and hold the plant in place."
+  },
+  {
+    "id": 331,
+    "question": "Which animal is the largest on Earth?",
+    "answers": [
+      "Elephant",
+      "Giraffe",
+      "Blue whale",
+      "Shark"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Science",
+    "explanation": "The blue whale is the biggest animal ever, even larger than the dinosaurs!"
+  },
+  {
+    "id": 332,
+    "question": "What do we call water falling from clouds as tiny frozen bits?",
+    "answers": [
+      "Fog",
+      "Snow",
+      "Dew",
+      "Steam"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Science",
+    "explanation": "Snow forms when water in clouds freezes into tiny ice crystals and falls down."
+  },
+  {
+    "id": 333,
+    "question": "What is the tiny building block that makes up all living things?",
+    "answers": [
+      "The cell",
+      "The atom",
+      "The brick",
+      "The seed"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Science",
+    "explanation": "Every living thing is made of cells, the tiny building blocks of life."
+  },
+  {
+    "id": 334,
+    "question": "What do we call an animal that only eats plants?",
+    "answers": [
+      "Carnivore",
+      "Omnivore",
+      "Herbivore",
+      "Predator"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Science",
+    "explanation": "Animals that eat only plants, like rabbits and cows, are called herbivores."
+  },
+  {
+    "id": 335,
+    "question": "How many players are on a basketball team on the court at one time?",
+    "answers": [
+      "5",
+      "6",
+      "7",
+      "11"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Sports",
+    "explanation": "Each basketball team has 5 players on the court trying to score baskets."
+  },
+  {
+    "id": 336,
+    "question": "What color card does a soccer referee show to send a player off the field?",
+    "answers": [
+      "Blue",
+      "Green",
+      "Red",
+      "Yellow"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Sports",
+    "explanation": "A red card means a player broke a big rule and must leave the game."
+  },
+  {
+    "id": 337,
+    "question": "In which sport do you try to knock down ten pins with a heavy ball?",
+    "answers": [
+      "Bowling",
+      "Golf",
+      "Curling",
+      "Hockey"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Sports",
+    "explanation": "In bowling you roll a ball down a lane to knock over all ten pins."
+  },
+  {
+    "id": 338,
+    "question": "What piece of equipment do you wear on your feet for ice skating?",
+    "answers": [
+      "Boots",
+      "Skates",
+      "Flippers",
+      "Sneakers"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Sports",
+    "explanation": "Ice skates have a thin metal blade underneath that slides across the ice."
+  },
+  {
+    "id": 339,
+    "question": "In swimming, which stroke is named after an animal?",
+    "answers": [
+      "Freestyle",
+      "Backstroke",
+      "Butterfly",
+      "Breaststroke"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Sports",
+    "explanation": "The butterfly stroke is named after the insect because the arms flap like wings."
+  },
+  {
+    "id": 340,
+    "question": "How many holes are there on a full-size golf course?",
+    "answers": [
+      "9",
+      "12",
+      "18",
+      "24"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Sports",
+    "explanation": "A full golf course has 18 holes for players to hit their ball into."
+  },
+  {
+    "id": 341,
+    "question": "In which sport would you wear boxing gloves and step into a ring?",
+    "answers": [
+      "Wrestling",
+      "Boxing",
+      "Fencing",
+      "Karate"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Sports",
+    "explanation": "Boxers wear padded gloves and fight inside a square ring with ropes."
+  },
+  {
+    "id": 342,
+    "question": "What shape is a rugby ball?",
+    "answers": [
+      "Round",
+      "Square",
+      "Flat",
+      "Oval"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Sports",
+    "explanation": "A rugby ball is oval, like an egg, so it bounces in surprising ways."
+  },
+  {
+    "id": 343,
+    "question": "In athletics, what do runners jump over in a hurdles race?",
+    "answers": [
+      "Hurdles",
+      "Nets",
+      "Walls",
+      "Ropes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Sports",
+    "explanation": "In a hurdles race, athletes sprint and leap over barriers called hurdles."
+  },
+  {
+    "id": 344,
+    "question": "In volleyball, how many times can a team touch the ball before hitting it over the net?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Sports",
+    "explanation": "A volleyball team is allowed 3 touches to send the ball back over the net."
+  },
+  {
+    "id": 345,
+    "question": "What is the maximum score you can get from a single throw in darts?",
+    "answers": [
+      "50",
+      "60",
+      "100",
+      "180"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Sports",
+    "explanation": "The highest a single dart can score is 60, by hitting the triple-twenty."
+  },
+  {
+    "id": 346,
+    "question": "In ice hockey, what is the small rubber disc that players hit called?",
+    "answers": [
+      "Ball",
+      "Puck",
+      "Disc",
+      "Chip"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Sports",
+    "explanation": "Ice hockey players use sticks to shoot a flat rubber disc called a puck."
+  },
+  {
+    "id": 347,
+    "question": "What do you call the small pictures you tap to open apps on a phone?",
+    "answers": [
+      "Buttons",
+      "Icons",
+      "Stickers",
+      "Windows"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Technology",
+    "explanation": "Those little pictures are called icons, and each one opens a different app when you tap it!"
+  },
+  {
+    "id": 348,
+    "question": "What part of a computer do you use to type letters and words?",
+    "answers": [
+      "Mouse",
+      "Screen",
+      "Keyboard",
+      "Speaker"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Technology",
+    "explanation": "The keyboard has all the letter and number keys you press to type words into a computer."
+  },
+  {
+    "id": 349,
+    "question": "What is the brain of a computer called?",
+    "answers": [
+      "Processor",
+      "Battery",
+      "Cable",
+      "Fan"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Technology",
+    "explanation": "The processor is like the computer's brain because it does all the thinking and calculations!"
+  },
+  {
+    "id": 350,
+    "question": "What do you call a computer's picture that fills the whole screen behind your apps?",
+    "answers": [
+      "Poster",
+      "Wallpaper",
+      "Curtain",
+      "Frame"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Technology",
+    "explanation": "The background picture on a screen is called wallpaper, and you can choose your favorite one!"
+  },
+  {
+    "id": 351,
+    "question": "Which of these lets you connect to the internet without any wires?",
+    "answers": [
+      "Wi-Fi",
+      "Pencil",
+      "Battery",
+      "Speaker"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Technology",
+    "explanation": "Wi-Fi sends internet through the air using radio signals, so you don't need any wires!"
+  },
+  {
+    "id": 352,
+    "question": "What do we call a nasty computer program that can make your computer sick?",
+    "answers": [
+      "A cookie",
+      "A virus",
+      "A folder",
+      "A pixel"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Technology",
+    "explanation": "A computer virus is bad software that can spread and cause problems, just like a real cold!"
+  },
+  {
+    "id": 353,
+    "question": "What company makes the Windows computer operating system?",
+    "answers": [
+      "Apple",
+      "Sony",
+      "Microsoft",
+      "Nintendo"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Technology",
+    "explanation": "Microsoft makes Windows, one of the most popular systems that runs computers around the world."
+  },
+  {
+    "id": 354,
+    "question": "What do the tiny dots that make up a picture on a screen called?",
+    "answers": [
+      "Bits",
+      "Pixels",
+      "Chips",
+      "Bytes"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Technology",
+    "explanation": "Pixels are the tiny colored dots that join together to make every picture you see on a screen!"
+  },
+  {
+    "id": 355,
+    "question": "What is it called when you save your files on the internet instead of your computer?",
+    "answers": [
+      "Cloud storage",
+      "Sky drive",
+      "Air memory",
+      "Space folder"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Technology",
+    "explanation": "Cloud storage keeps your files on big computers online, so you can open them from anywhere!"
+  },
+  {
+    "id": 356,
+    "question": "Who is often called the mother of computer programming for her early ideas?",
+    "answers": [
+      "Marie Curie",
+      "Ada Lovelace",
+      "Rosa Parks",
+      "Amelia Earhart"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Technology",
+    "explanation": "Ada Lovelace wrote the first computer program idea long ago, even before real computers existed!"
+  },
+  {
+    "id": 357,
+    "question": "How many different digits are used in the binary number system?",
+    "answers": [
+      "Ten",
+      "Eight",
+      "Two",
+      "Four"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Technology",
+    "explanation": "Binary uses only two digits, 0 and 1, and computers use them to store everything!"
+  },
+  {
+    "id": 358,
+    "question": "What does 'CPU' stand for in a computer?",
+    "answers": [
+      "Central Processing Unit",
+      "Computer Power Usage",
+      "Colorful Picture Unit",
+      "Control Program Utility"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Technology",
+    "explanation": "CPU means Central Processing Unit, the chip that acts as the computer's busy brain!"
   }
 ]
