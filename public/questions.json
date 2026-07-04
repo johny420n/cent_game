@@ -5010,5 +5010,3515 @@
     "difficulty": "hard",
     "category": "Technology",
     "explanation": "CPU means Central Processing Unit, the chip that acts as the computer's busy brain!"
+  },
+  {
+    "id": 359,
+    "question": "In the movie 'The Lion King', what is the name of Simba's father, the king?",
+    "answers": [
+      "Rafiki",
+      "Scar",
+      "Zazu",
+      "Mufasa"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "Entertainment",
+    "explanation": "Mufasa is the wise lion king and Simba's father in Disney's 'The Lion King'.",
+    "level": 2
+  },
+  {
+    "id": 360,
+    "question": "Which studio, famous for films like 'Toy Story' and 'Up', is known for its computer-animated movies?",
+    "answers": [
+      "Warner Bros.",
+      "Studio Ghibli",
+      "DreamWorks",
+      "Pixar"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "Entertainment",
+    "explanation": "Pixar pioneered feature-length computer animation, starting with 'Toy Story' in 1995.",
+    "level": 2
+  },
+  {
+    "id": 361,
+    "question": "In the fairy tale, what does the miller's daughter have to guess to keep her baby in 'Rumpelstiltskin'?",
+    "answers": [
+      "The little man's name",
+      "The way home",
+      "A secret number",
+      "A magic word"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Entertainment",
+    "explanation": "She must guess the strange little man's name, Rumpelstiltskin, to break their bargain.",
+    "level": 2
+  },
+  {
+    "id": 362,
+    "question": "Who wrote the classic children's story 'The Cat in the Hat'?",
+    "answers": [
+      "A. A. Milne",
+      "Eric Carle",
+      "Dr. Seuss",
+      "Maurice Sendak"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Entertainment",
+    "explanation": "Dr. Seuss (Theodor Geisel) wrote 'The Cat in the Hat' and many other rhyming books.",
+    "level": 2
+  },
+  {
+    "id": 363,
+    "question": "In music, how many musicians play together in a trio?",
+    "answers": [
+      "Three",
+      "Four",
+      "Five",
+      "Two"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Entertainment",
+    "explanation": "A trio is a group of three musicians, since the prefix 'tri' means three.",
+    "level": 2
+  },
+  {
+    "id": 364,
+    "question": "Which author created the boy detective and the world of the 'Chronicles of Narnia'?",
+    "answers": [
+      "C. S. Lewis",
+      "Enid Blyton",
+      "Philip Pullman",
+      "J. R. R. Tolkien"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Entertainment",
+    "explanation": "C. S. Lewis wrote 'The Chronicles of Narnia', beginning with 'The Lion, the Witch and the Wardrobe'.",
+    "level": 2
+  },
+  {
+    "id": 365,
+    "question": "In 'The Jungle Book', what kind of animal is the villain Shere Khan?",
+    "answers": [
+      "A panther",
+      "A python",
+      "A tiger",
+      "A wolf"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Entertainment",
+    "explanation": "Shere Khan is the fierce Bengal tiger who threatens the man-cub Mowgli.",
+    "level": 2
+  },
+  {
+    "id": 366,
+    "question": "Which country is home to Studio Ghibli, the studio behind 'My Neighbor Totoro'?",
+    "answers": [
+      "South Korea",
+      "France",
+      "China",
+      "Japan"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Entertainment",
+    "explanation": "Studio Ghibli is a Japanese animation studio co-founded by director Hayao Miyazaki.",
+    "level": 2
+  },
+  {
+    "id": 367,
+    "question": "In classic tales collected by the Brothers Grimm, which princess is woken from a long sleep by a prince?",
+    "answers": [
+      "Rapunzel",
+      "Thumbelina",
+      "Snow White",
+      "Gretel"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Entertainment",
+    "explanation": "Snow White is woken after eating a poisoned apple, in the Brothers Grimm fairy tale.",
+    "level": 2
+  },
+  {
+    "id": 368,
+    "question": "Which famous composer wrote 'The Nutcracker' and 'Swan Lake' ballets?",
+    "answers": [
+      "Handel",
+      "Vivaldi",
+      "Tchaikovsky",
+      "Chopin"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Entertainment",
+    "explanation": "The Russian composer Pyotr Ilyich Tchaikovsky wrote both 'The Nutcracker' and 'Swan Lake'.",
+    "level": 2
+  },
+  {
+    "id": 369,
+    "question": "In an orchestra, which family of instruments does the violin belong to?",
+    "answers": [
+      "Strings",
+      "Woodwind",
+      "Percussion",
+      "Brass"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Entertainment",
+    "explanation": "The violin is a string instrument, played with a bow across its strings.",
+    "level": 2
+  },
+  {
+    "id": 370,
+    "question": "Who wrote the beloved book 'Charlotte's Web', about a pig named Wilbur and a spider?",
+    "answers": [
+      "Frances Hodgson Burnett",
+      "Lewis Carroll",
+      "Kenneth Grahame",
+      "E. B. White"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "hard",
+    "category": "Entertainment",
+    "explanation": "E. B. White wrote 'Charlotte's Web', in which the clever spider Charlotte saves Wilbur the pig.",
+    "level": 2
+  },
+  {
+    "id": 371,
+    "question": "Which English author wrote 'Oliver Twist', 'A Christmas Carol', and 'Great Expectations'?",
+    "answers": [
+      "Rudyard Kipling",
+      "Charles Dickens",
+      "Jane Austen",
+      "Thomas Hardy"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Entertainment",
+    "explanation": "Charles Dickens was a Victorian novelist famous for 'Oliver Twist' and 'A Christmas Carol'.",
+    "level": 3
+  },
+  {
+    "id": 372,
+    "question": "The famous four-note opening 'da-da-da-DUM' belongs to which composer's Fifth Symphony?",
+    "answers": [
+      "Beethoven",
+      "Brahms",
+      "Bach",
+      "Mozart"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Entertainment",
+    "explanation": "Beethoven's Symphony No. 5 opens with its instantly recognizable four-note motif.",
+    "level": 3
+  },
+  {
+    "id": 373,
+    "question": "Which animated film became the first to win the Academy Award for Best Animated Feature in 2002?",
+    "answers": [
+      "Shrek",
+      "Monsters, Inc.",
+      "Ice Age",
+      "Spirited Away"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Entertainment",
+    "explanation": "'Shrek' won the very first Academy Award for Best Animated Feature in 2002.",
+    "level": 3
+  },
+  {
+    "id": 374,
+    "question": "In Greek mythology, which hero is famous for completing twelve labours?",
+    "answers": [
+      "Theseus",
+      "Perseus",
+      "Hercules",
+      "Achilles"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Entertainment",
+    "explanation": "Hercules (Heracles) is famous for performing the Twelve Labours as penance.",
+    "level": 3
+  },
+  {
+    "id": 375,
+    "question": "Which author wrote the novel 'Treasure Island', featuring the pirate Long John Silver?",
+    "answers": [
+      "Daniel Defoe",
+      "Herman Melville",
+      "Jules Verne",
+      "Robert Louis Stevenson"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Entertainment",
+    "explanation": "Robert Louis Stevenson wrote 'Treasure Island', introducing the pirate Long John Silver.",
+    "level": 3
+  },
+  {
+    "id": 376,
+    "question": "In music notation, how many beats does a half note (minim) get in common 4/4 time?",
+    "answers": [
+      "Two",
+      "Four",
+      "One",
+      "Three"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Entertainment",
+    "explanation": "In 4/4 time a half note lasts two beats, half the length of a whole note.",
+    "level": 3
+  },
+  {
+    "id": 377,
+    "question": "Which playwright's works include 'Macbeth', 'Hamlet', and 'A Midsummer Night's Dream'?",
+    "answers": [
+      "Oscar Wilde",
+      "Ben Jonson",
+      "William Shakespeare",
+      "Christopher Marlowe"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Entertainment",
+    "explanation": "William Shakespeare wrote 'Macbeth', 'Hamlet', and 'A Midsummer Night's Dream', among many plays.",
+    "level": 3
+  },
+  {
+    "id": 378,
+    "question": "Which 1939 film features the song 'Over the Rainbow' and a girl named Dorothy?",
+    "answers": [
+      "Snow White",
+      "The Wizard of Oz",
+      "Bambi",
+      "Pinocchio"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Entertainment",
+    "explanation": "'The Wizard of Oz' (1939) features Dorothy singing 'Over the Rainbow' in Kansas.",
+    "level": 3
+  },
+  {
+    "id": 379,
+    "question": "Who composed the opera 'The Magic Flute' and the 'Requiem' he left unfinished at his death?",
+    "answers": [
+      "Joseph Haydn",
+      "Franz Schubert",
+      "George Frideric Handel",
+      "Wolfgang Amadeus Mozart"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "hard",
+    "category": "Entertainment",
+    "explanation": "Mozart composed 'The Magic Flute' and was working on his 'Requiem' when he died in 1791.",
+    "level": 3
+  },
+  {
+    "id": 380,
+    "question": "In Lewis Carroll's 'Alice's Adventures in Wonderland', which character is always shouting 'Off with their heads!'?",
+    "answers": [
+      "The White Rabbit",
+      "The Cheshire Cat",
+      "The Queen of Hearts",
+      "The Mad Hatter"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Entertainment",
+    "explanation": "The Queen of Hearts is the tyrannical ruler who constantly demands 'Off with their heads!'",
+    "level": 3
+  },
+  {
+    "id": 381,
+    "question": "Which director made the classic films 'Psycho', 'Vertigo', and 'The Birds', earning the title 'Master of Suspense'?",
+    "answers": [
+      "Alfred Hitchcock",
+      "Orson Welles",
+      "Stanley Kubrick",
+      "Steven Spielberg"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Entertainment",
+    "explanation": "Alfred Hitchcock, the 'Master of Suspense', directed 'Psycho', 'Vertigo', and 'The Birds'.",
+    "level": 3
+  },
+  {
+    "id": 382,
+    "question": "In music, which Italian term instructs a musician to play very quietly?",
+    "answers": [
+      "Allegro",
+      "Staccato",
+      "Pianissimo",
+      "Fortissimo"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Entertainment",
+    "explanation": "'Pianissimo' (marked pp) tells a musician to play very softly, softer than 'piano'.",
+    "level": 3
+  },
+  {
+    "id": 383,
+    "question": "How many bones are in the adult human body?",
+    "answers": [
+      "300",
+      "206",
+      "150",
+      "412"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "explanation": "An adult human skeleton has 206 bones, though babies are born with around 300 that later fuse together.",
+    "level": 2
+  },
+  {
+    "id": 384,
+    "question": "Which vitamin does your skin make when it is exposed to sunlight?",
+    "answers": [
+      "Vitamin B12",
+      "Vitamin K",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "explanation": "Your skin produces vitamin D when sunlight hits it, which helps keep your bones strong.",
+    "level": 2
+  },
+  {
+    "id": 385,
+    "question": "How many months of the year have exactly 31 days?",
+    "answers": [
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "explanation": "Seven months have 31 days: January, March, May, July, August, October, and December.",
+    "level": 2
+  },
+  {
+    "id": 386,
+    "question": "Which is the largest ocean on Earth?",
+    "answers": [
+      "Indian Ocean",
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "explanation": "The Pacific Ocean is the largest, covering more area than all the land on Earth combined.",
+    "level": 2
+  },
+  {
+    "id": 387,
+    "question": "How many centimetres are there in one metre?",
+    "answers": [
+      "50",
+      "1000",
+      "10",
+      "100"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "explanation": "There are 100 centimetres in one metre, since 'centi' means one hundredth.",
+    "level": 2
+  },
+  {
+    "id": 388,
+    "question": "Which gas do humans breathe in from the air to stay alive?",
+    "answers": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "explanation": "We breathe in oxygen, which our blood carries to every cell in the body to make energy.",
+    "level": 2
+  },
+  {
+    "id": 389,
+    "question": "In cooking, how many teaspoons make up one tablespoon?",
+    "answers": [
+      "4",
+      "2",
+      "5",
+      "3"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "explanation": "One tablespoon equals three teaspoons, a handy fact when following recipes.",
+    "level": 2
+  },
+  {
+    "id": 390,
+    "question": "What is the largest organ of the human body?",
+    "answers": [
+      "The liver",
+      "The lungs",
+      "The skin",
+      "The brain"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "explanation": "The skin is the body's largest organ, protecting everything inside and helping control temperature.",
+    "level": 2
+  },
+  {
+    "id": 391,
+    "question": "How many years are there in one century?",
+    "answers": [
+      "50",
+      "10",
+      "1000",
+      "100"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "explanation": "A century is 100 years, while a period of 1000 years is called a millennium.",
+    "level": 2
+  },
+  {
+    "id": 392,
+    "question": "On the Celsius scale used by scientists, at what temperature does water boil at sea level?",
+    "answers": [
+      "100 degrees",
+      "90 degrees",
+      "50 degrees",
+      "212 degrees"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "explanation": "Water boils at 100 degrees Celsius at sea level, the top of the Celsius scale for water.",
+    "level": 2
+  },
+  {
+    "id": 393,
+    "question": "Which spice, worth more than its weight in gold historically, comes from a crocus flower?",
+    "answers": [
+      "Paprika",
+      "Saffron",
+      "Cinnamon",
+      "Turmeric"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "explanation": "Saffron comes from the thread-like parts of a crocus flower and is the world's most expensive spice.",
+    "level": 2
+  },
+  {
+    "id": 394,
+    "question": "How many teeth does a full set of adult human teeth contain?",
+    "answers": [
+      "30",
+      "32",
+      "36",
+      "28"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "explanation": "A full adult set has 32 teeth, including the four wisdom teeth at the back.",
+    "level": 3
+  },
+  {
+    "id": 395,
+    "question": "Roughly what percentage of the human body is made up of water?",
+    "answers": [
+      "About 40%",
+      "About 20%",
+      "About 60%",
+      "About 90%"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "explanation": "The human body is about 60% water, which is why staying hydrated is so important.",
+    "level": 3
+  },
+  {
+    "id": 396,
+    "question": "How many time zones does the mainland United States span?",
+    "answers": [
+      "2",
+      "6",
+      "4",
+      "8"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "explanation": "The contiguous mainland US spans four time zones: Eastern, Central, Mountain, and Pacific.",
+    "level": 3
+  },
+  {
+    "id": 397,
+    "question": "Which mountain is the tallest above sea level on Earth?",
+    "answers": [
+      "Mount Kilimanjaro",
+      "K2",
+      "Denali",
+      "Mount Everest"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "explanation": "Mount Everest is the highest point above sea level, standing about 8,849 metres tall.",
+    "level": 3
+  },
+  {
+    "id": 398,
+    "question": "What is the powerhouse of the cell, where energy is produced?",
+    "answers": [
+      "The cell wall",
+      "The mitochondria",
+      "The ribosome",
+      "The nucleus"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "explanation": "Mitochondria are called the powerhouse of the cell because they produce most of its energy.",
+    "level": 3
+  },
+  {
+    "id": 399,
+    "question": "How many kilometres are in one mile, to the nearest tenth?",
+    "answers": [
+      "3.0",
+      "2.2",
+      "1.6",
+      "1.1"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "explanation": "One mile is about 1.6 kilometres, a useful conversion when reading maps or road signs.",
+    "level": 3
+  },
+  {
+    "id": 400,
+    "question": "Which country is home to the ancient city of Petra, carved into rock?",
+    "answers": [
+      "Greece",
+      "Jordan",
+      "Egypt",
+      "Turkey"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "explanation": "Petra is in Jordan and was carved into rose-coloured rock by the Nabataeans over 2,000 years ago.",
+    "level": 3
+  },
+  {
+    "id": 401,
+    "question": "In a leap year, which month gains an extra day?",
+    "answers": [
+      "December",
+      "February",
+      "June",
+      "January"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "General Knowledge",
+    "explanation": "February gains a 29th day in a leap year, making the year 366 days long.",
+    "level": 3
+  },
+  {
+    "id": 402,
+    "question": "Which part of the human eye controls how much light enters it?",
+    "answers": [
+      "The lens",
+      "The cornea",
+      "The iris",
+      "The retina"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "explanation": "The iris is the coloured ring that adjusts the size of the pupil to control incoming light.",
+    "level": 3
+  },
+  {
+    "id": 403,
+    "question": "Which is the only US state that produces coffee commercially?",
+    "answers": [
+      "California",
+      "Florida",
+      "Hawaii",
+      "Texas"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "explanation": "Hawaii's warm climate makes it the only US state that grows coffee commercially, including famous Kona coffee.",
+    "level": 3
+  },
+  {
+    "id": 404,
+    "question": "How many degrees are there in the sum of the interior angles of a triangle?",
+    "answers": [
+      "270",
+      "90",
+      "360",
+      "180"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "explanation": "The three interior angles of any triangle always add up to 180 degrees.",
+    "level": 3
+  },
+  {
+    "id": 405,
+    "question": "Which unit is used to measure the loudness of sound?",
+    "answers": [
+      "Lumen",
+      "Hertz",
+      "Decibel",
+      "Watt"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "General Knowledge",
+    "explanation": "Loudness is measured in decibels, while hertz measures pitch or frequency.",
+    "level": 3
+  },
+  {
+    "id": 406,
+    "question": "What is the capital city of Spain?",
+    "answers": [
+      "Seville",
+      "Madrid",
+      "Barcelona",
+      "Valencia"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Geography",
+    "explanation": "Madrid is the capital of Spain and sits right in the middle of the country.",
+    "level": 2
+  },
+  {
+    "id": 407,
+    "question": "Which ocean lies between Europe, Africa, and the Americas?",
+    "answers": [
+      "Pacific Ocean",
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Geography",
+    "explanation": "The Atlantic Ocean sits between the Americas on one side and Europe and Africa on the other.",
+    "level": 2
+  },
+  {
+    "id": 408,
+    "question": "Which country is shaped a bit like a boot and is home to the city of Venice?",
+    "answers": [
+      "Portugal",
+      "Italy",
+      "Croatia",
+      "Greece"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Geography",
+    "explanation": "Italy is the boot-shaped country, and Venice is its famous city built on water.",
+    "level": 2
+  },
+  {
+    "id": 409,
+    "question": "On which continent would you find the Sahara Desert?",
+    "answers": [
+      "South America",
+      "Africa",
+      "Australia",
+      "Asia"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Geography",
+    "explanation": "The Sahara is a giant hot desert that covers much of northern Africa.",
+    "level": 2
+  },
+  {
+    "id": 410,
+    "question": "What is the capital of Germany?",
+    "answers": [
+      "Hamburg",
+      "Berlin",
+      "Frankfurt",
+      "Munich"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Geography",
+    "explanation": "Berlin is Germany's capital and its biggest city.",
+    "level": 2
+  },
+  {
+    "id": 411,
+    "question": "Which country has a red circle in the middle of a white flag?",
+    "answers": [
+      "China",
+      "Vietnam",
+      "South Korea",
+      "Japan"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Geography",
+    "explanation": "Japan's flag shows a red circle for the sun, which is why it's called the Land of the Rising Sun.",
+    "level": 2
+  },
+  {
+    "id": 412,
+    "question": "Which is the largest of the Great Lakes in North America?",
+    "answers": [
+      "Lake Michigan",
+      "Lake Superior",
+      "Lake Ontario",
+      "Lake Erie"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Geography",
+    "explanation": "Lake Superior is the biggest Great Lake, and its name even means 'upper' or 'highest'.",
+    "level": 2
+  },
+  {
+    "id": 413,
+    "question": "The Rocky Mountains run through which two countries?",
+    "answers": [
+      "Mexico and Guatemala",
+      "USA and Canada",
+      "Canada and Greenland",
+      "USA and Mexico"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Geography",
+    "explanation": "The Rocky Mountains stretch through the western United States and up into Canada.",
+    "level": 2
+  },
+  {
+    "id": 414,
+    "question": "What is the longest river in South America?",
+    "answers": [
+      "Paraná River",
+      "Magdalena River",
+      "Orinoco River",
+      "Amazon River"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "hard",
+    "category": "Geography",
+    "explanation": "The Amazon River in South America carries more water than any other river on Earth.",
+    "level": 2
+  },
+  {
+    "id": 415,
+    "question": "Which country is both an island and a continent?",
+    "answers": [
+      "New Zealand",
+      "Greenland",
+      "Australia",
+      "Madagascar"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Geography",
+    "explanation": "Australia is special because it is a whole continent as well as a single country and island.",
+    "level": 2
+  },
+  {
+    "id": 416,
+    "question": "The famous canal that connects the Atlantic and Pacific Oceans is in which country?",
+    "answers": [
+      "Panama",
+      "Colombia",
+      "Egypt",
+      "Mexico"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Geography",
+    "explanation": "The Panama Canal lets ships sail between the Atlantic and Pacific without going around South America.",
+    "level": 2
+  },
+  {
+    "id": 417,
+    "question": "Which mountain in Africa is the tallest, standing in Tanzania?",
+    "answers": [
+      "Table Mountain",
+      "Mount Elgon",
+      "Mount Kilimanjaro",
+      "Mount Kenya"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Geography",
+    "explanation": "Mount Kilimanjaro in Tanzania is Africa's highest peak, with snow at the top even though it's near the Equator.",
+    "level": 2
+  },
+  {
+    "id": 418,
+    "question": "Which sea separates Saudi Arabia from Africa?",
+    "answers": [
+      "Arabian Sea",
+      "Black Sea",
+      "Red Sea",
+      "Caspian Sea"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Geography",
+    "explanation": "The Red Sea lies between the Arabian Peninsula and northeastern Africa.",
+    "level": 3
+  },
+  {
+    "id": 419,
+    "question": "The Andes mountain range runs along which side of South America?",
+    "answers": [
+      "Eastern side",
+      "Northern side",
+      "Southern side",
+      "Western side"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "Geography",
+    "explanation": "The Andes stretch down the western (Pacific) coast of South America, making them the world's longest mountain range.",
+    "level": 3
+  },
+  {
+    "id": 420,
+    "question": "Which country has the most people living in it?",
+    "answers": [
+      "Indonesia",
+      "India",
+      "China",
+      "United States"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Geography",
+    "explanation": "India recently became the most populous country, home to more than 1.4 billion people.",
+    "level": 3
+  },
+  {
+    "id": 421,
+    "question": "Istanbul is a large city that sits on two continents. Which two?",
+    "answers": [
+      "Europe and Asia",
+      "Europe and the Middle East",
+      "Europe and Africa",
+      "Asia and Africa"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Geography",
+    "explanation": "Istanbul in Turkey straddles the Bosphorus strait, with part in Europe and part in Asia.",
+    "level": 3
+  },
+  {
+    "id": 422,
+    "question": "What is the capital of Egypt?",
+    "answers": [
+      "Alexandria",
+      "Giza",
+      "Cairo",
+      "Luxor"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Geography",
+    "explanation": "Cairo is Egypt's capital and one of the largest cities in Africa, near the famous pyramids.",
+    "level": 3
+  },
+  {
+    "id": 423,
+    "question": "Which line of latitude passes through the middle of Brazil and northern Australia?",
+    "answers": [
+      "Prime Meridian",
+      "Arctic Circle",
+      "Tropic of Cancer",
+      "Tropic of Capricorn"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Geography",
+    "explanation": "The Tropic of Capricorn crosses through Brazil and northern Australia, south of the Equator.",
+    "level": 3
+  },
+  {
+    "id": 424,
+    "question": "The Danube River flows through more countries than any other in the world. On which continent is it?",
+    "answers": [
+      "Europe",
+      "Africa",
+      "Asia",
+      "South America"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Geography",
+    "explanation": "The Danube winds through ten European countries, passing capitals like Vienna, Budapest, and Belgrade.",
+    "level": 3
+  },
+  {
+    "id": 425,
+    "question": "Which country was once known as Persia?",
+    "answers": [
+      "Turkey",
+      "Iran",
+      "Iraq",
+      "Egypt"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Geography",
+    "explanation": "Iran was called Persia until the country officially changed its name in 1935.",
+    "level": 3
+  },
+  {
+    "id": 426,
+    "question": "Which strait separates the continents of Asia and North America?",
+    "answers": [
+      "Strait of Hormuz",
+      "Strait of Malacca",
+      "Bosphorus",
+      "Bering Strait"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "hard",
+    "category": "Geography",
+    "explanation": "The Bering Strait is a narrow stretch of water between Russia in Asia and Alaska in North America.",
+    "level": 3
+  },
+  {
+    "id": 427,
+    "question": "Lake Baikal, the world's deepest freshwater lake, is found in which country?",
+    "answers": [
+      "Mongolia",
+      "China",
+      "Russia",
+      "Kazakhstan"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Geography",
+    "explanation": "Lake Baikal in Russia is the deepest lake on Earth and holds about a fifth of the world's unfrozen fresh water.",
+    "level": 3
+  },
+  {
+    "id": 428,
+    "question": "Which ancient wonder was a giant lighthouse that guided ships into the harbour of Alexandria in Egypt?",
+    "answers": [
+      "The Pharos of Alexandria",
+      "The Colossus of Rhodes",
+      "The Hanging Gardens",
+      "The Temple of Artemis"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "History",
+    "explanation": "The Pharos of Alexandria was a towering lighthouse, one of the Seven Wonders of the Ancient World.",
+    "level": 2
+  },
+  {
+    "id": 429,
+    "question": "The Wright brothers made the first powered airplane flight in 1903 in which country?",
+    "answers": [
+      "England",
+      "France",
+      "Germany",
+      "The United States"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "History",
+    "explanation": "Orville and Wilbur Wright flew their airplane at Kitty Hawk in North Carolina, USA.",
+    "level": 2
+  },
+  {
+    "id": 430,
+    "question": "Which explorer led the first European voyage to reach India by sailing around Africa?",
+    "answers": [
+      "Marco Polo",
+      "Christopher Columbus",
+      "Ferdinand Magellan",
+      "Vasco da Gama"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "History",
+    "explanation": "Vasco da Gama of Portugal sailed around the tip of Africa and reached India in 1498.",
+    "level": 2
+  },
+  {
+    "id": 431,
+    "question": "The ancient Greek city-state famous for its tough, disciplined warriors was called what?",
+    "answers": [
+      "Thebes",
+      "Sparta",
+      "Athens",
+      "Corinth"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "History",
+    "explanation": "Sparta trained its citizens as soldiers from childhood and was known for its fierce army.",
+    "level": 2
+  },
+  {
+    "id": 432,
+    "question": "Which document, signed in England in 1215, limited the power of the king?",
+    "answers": [
+      "The Domesday Book",
+      "The Magna Carta",
+      "The Treaty of Paris",
+      "The Bill of Rights"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "History",
+    "explanation": "The Magna Carta forced King John to agree that even the king had to follow the law.",
+    "level": 2
+  },
+  {
+    "id": 433,
+    "question": "Which sailor and captain led the Spanish Armada's rival, the English fleet, when England defeated the Armada in 1588?",
+    "answers": [
+      "Horatio Nelson",
+      "Walter Raleigh",
+      "Francis Drake",
+      "James Cook"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "History",
+    "explanation": "Sir Francis Drake helped lead the English navy that defeated the Spanish Armada in 1588.",
+    "level": 2
+  },
+  {
+    "id": 434,
+    "question": "The invention of the printing press with movable type in Europe is credited to which man?",
+    "answers": [
+      "Johannes Gutenberg",
+      "Benjamin Franklin",
+      "Galileo Galilei",
+      "Leonardo da Vinci"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "History",
+    "explanation": "Johannes Gutenberg's printing press in the 1400s let books be made quickly and cheaply.",
+    "level": 2
+  },
+  {
+    "id": 435,
+    "question": "Which wall was built across northern Britain by the Romans and is named after an emperor?",
+    "answers": [
+      "The Berlin Wall",
+      "Hadrian's Wall",
+      "The Antonine Wall",
+      "The Great Wall"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "History",
+    "explanation": "Hadrian's Wall was built on the orders of Emperor Hadrian to guard the edge of Roman Britain.",
+    "level": 2
+  },
+  {
+    "id": 436,
+    "question": "Which ancient civilization is famous for building stepped pyramids called ziggurats between two rivers in Mesopotamia?",
+    "answers": [
+      "The Aztecs",
+      "The Vikings",
+      "The Mongols",
+      "The Sumerians"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "hard",
+    "category": "History",
+    "explanation": "The Sumerians of Mesopotamia built ziggurats and are often called one of the first civilizations.",
+    "level": 2
+  },
+  {
+    "id": 437,
+    "question": "The Hundred Years' War was mainly fought between which two countries?",
+    "answers": [
+      "Spain and Portugal",
+      "Rome and Greece",
+      "England and France",
+      "Germany and Russia"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "History",
+    "explanation": "England and France fought on and off for more than a hundred years during the Middle Ages.",
+    "level": 2
+  },
+  {
+    "id": 438,
+    "question": "Which queen of England never married and ruled during a golden age of exploration and theatre in the 1500s?",
+    "answers": [
+      "Elizabeth I",
+      "Queen Victoria",
+      "Anne Boleyn",
+      "Mary Queen of Scots"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "History",
+    "explanation": "Elizabeth I ruled England for over 40 years, a time when Shakespeare wrote and explorers set sail.",
+    "level": 2
+  },
+  {
+    "id": 439,
+    "question": "The ancient Chinese are credited with inventing paper, gunpowder, the compass, and what else?",
+    "answers": [
+      "The light bulb",
+      "The telescope",
+      "Printing",
+      "The steam engine"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "History",
+    "explanation": "Paper, gunpowder, the compass, and printing are known as ancient China's Four Great Inventions.",
+    "level": 2
+  },
+  {
+    "id": 440,
+    "question": "In which year did Christopher Columbus first cross the Atlantic and reach the Americas?",
+    "answers": [
+      "1492",
+      "1519",
+      "1453",
+      "1607"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "History",
+    "explanation": "Columbus sailed the ocean blue in 1492, landing in the Caribbean while looking for Asia.",
+    "level": 3
+  },
+  {
+    "id": 441,
+    "question": "The French Revolution began in 1789 when crowds stormed which famous Paris prison?",
+    "answers": [
+      "The Louvre",
+      "Notre-Dame",
+      "The Bastille",
+      "Versailles"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "History",
+    "explanation": "The storming of the Bastille prison on 14 July 1789 marked the start of the French Revolution.",
+    "level": 3
+  },
+  {
+    "id": 442,
+    "question": "Which empire, centred on the city of Constantinople, was the eastern half of the Roman Empire that survived for another thousand years?",
+    "answers": [
+      "The Byzantine Empire",
+      "The Holy Roman Empire",
+      "The Ottoman Empire",
+      "The Persian Empire"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "History",
+    "explanation": "The Byzantine Empire was the eastern Roman Empire, ruled from Constantinople until 1453.",
+    "level": 3
+  },
+  {
+    "id": 443,
+    "question": "The Industrial Revolution, when machines and factories changed how goods were made, began in which country?",
+    "answers": [
+      "Britain",
+      "The United States",
+      "France",
+      "Germany"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "History",
+    "explanation": "The Industrial Revolution started in Britain in the 1700s with new machines like the steam engine.",
+    "level": 3
+  },
+  {
+    "id": 444,
+    "question": "Which pharaoh of ancient Egypt is famous for building a huge number of temples and statues during one of the longest reigns, and is often called 'the Great'?",
+    "answers": [
+      "Akhenaten",
+      "Thutmose I",
+      "Ramesses II",
+      "Khufu"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "History",
+    "explanation": "Ramesses II ruled for about 66 years and built more monuments than almost any other pharaoh.",
+    "level": 3
+  },
+  {
+    "id": 445,
+    "question": "The Black Death, which killed millions of people in the 1300s, was a deadly outbreak of what?",
+    "answers": [
+      "The plague",
+      "Smallpox",
+      "Cholera",
+      "Influenza"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "History",
+    "explanation": "The Black Death was a plague spread by fleas on rats that wiped out much of medieval Europe.",
+    "level": 3
+  },
+  {
+    "id": 446,
+    "question": "Which treaty, signed in 1919, officially ended World War I?",
+    "answers": [
+      "The Treaty of Utrecht",
+      "The Treaty of Vienna",
+      "The Treaty of Versailles",
+      "The Treaty of Tordesillas"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "History",
+    "explanation": "The Treaty of Versailles ended World War I and placed heavy blame and payments on Germany.",
+    "level": 3
+  },
+  {
+    "id": 447,
+    "question": "Which Roman general famously crossed the Rubicon river and later became a dictator of Rome?",
+    "answers": [
+      "Julius Caesar",
+      "Nero",
+      "Augustus",
+      "Mark Antony"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "History",
+    "explanation": "Julius Caesar crossed the Rubicon with his army in 49 BC, sparking a civil war he eventually won.",
+    "level": 3
+  },
+  {
+    "id": 448,
+    "question": "Which civilization built a road network and used knotted strings called quipu for record-keeping in the Andes mountains?",
+    "answers": [
+      "The Aztec",
+      "The Inca",
+      "The Olmec",
+      "The Maya"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "History",
+    "explanation": "The Inca of South America recorded numbers and information using knotted cords called quipu.",
+    "level": 3
+  },
+  {
+    "id": 449,
+    "question": "The Renaissance, a great rebirth of art and learning in Europe, is most closely associated with which country as its birthplace?",
+    "answers": [
+      "the Netherlands",
+      "Spain",
+      "England",
+      "Italy"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "hard",
+    "category": "History",
+    "explanation": "The Renaissance began in Italy, in cities like Florence, before spreading across Europe.",
+    "level": 3
+  },
+  {
+    "id": 450,
+    "question": "Which ancient Babylonian king is famous for one of the earliest written sets of laws, carved on a stone pillar?",
+    "answers": [
+      "Sargon",
+      "Hammurabi",
+      "Cyrus the Great",
+      "Nebuchadnezzar"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "History",
+    "explanation": "The Code of Hammurabi listed laws and punishments and is one of the oldest legal codes we know of.",
+    "level": 3
+  },
+  {
+    "id": 451,
+    "question": "The fall of Constantinople in 1453, which ended the Byzantine Empire, was won by which rising power?",
+    "answers": [
+      "The Ottoman Turks",
+      "The Persians",
+      "The Mongols",
+      "The Romans"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "History",
+    "explanation": "The Ottoman Turks captured Constantinople in 1453, ending the last of the Roman Empire.",
+    "level": 3
+  },
+  {
+    "id": 452,
+    "question": "What is the plural of the word 'goose'?",
+    "answers": [
+      "Gooses",
+      "Geese",
+      "Goosen",
+      "Geeses"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Language",
+    "explanation": "'Goose' is an irregular noun whose plural is 'geese', changing the vowel sound rather than adding an ending.",
+    "level": 2
+  },
+  {
+    "id": 453,
+    "question": "Which word is an antonym (opposite) of 'generous'?",
+    "answers": [
+      "Kind",
+      "Cheerful",
+      "Wealthy",
+      "Stingy"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "Language",
+    "explanation": "'Stingy' means unwilling to share or give, the opposite of 'generous'.",
+    "level": 2
+  },
+  {
+    "id": 454,
+    "question": "What does the prefix 'sub-' mean, as in 'submarine' or 'subway'?",
+    "answers": [
+      "Around",
+      "Above",
+      "Under",
+      "Before"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Language",
+    "explanation": "The prefix 'sub-' comes from Latin and means 'under' or 'below'.",
+    "level": 2
+  },
+  {
+    "id": 455,
+    "question": "Which sentence uses correct punctuation?",
+    "answers": [
+      "Where are you going!",
+      "where are you going,",
+      "Where are you going?",
+      "Where are you going."
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Language",
+    "explanation": "A direct question ends with a question mark, and the first word of a sentence is capitalised.",
+    "level": 2
+  },
+  {
+    "id": 456,
+    "question": "What is a synonym for the word 'enormous'?",
+    "answers": [
+      "Delicate",
+      "Narrow",
+      "Ordinary",
+      "Gigantic"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Language",
+    "explanation": "'Gigantic' and 'enormous' both describe something extremely large.",
+    "level": 2
+  },
+  {
+    "id": 457,
+    "question": "What does the idiom 'to bite the bullet' mean?",
+    "answers": [
+      "To break your teeth",
+      "To face something difficult bravely",
+      "To eat very quickly",
+      "To make a silly mistake"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Language",
+    "explanation": "'To bite the bullet' means to force yourself to do something unpleasant or difficult with courage.",
+    "level": 2
+  },
+  {
+    "id": 458,
+    "question": "In the sentence 'She sang beautifully', what part of speech is 'beautifully'?",
+    "answers": [
+      "Adverb",
+      "Adjective",
+      "Verb",
+      "Noun"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Language",
+    "explanation": "'Beautifully' is an adverb because it describes how the verb 'sang' was performed.",
+    "level": 2
+  },
+  {
+    "id": 459,
+    "question": "What is the comparative form of the adjective 'good'?",
+    "answers": [
+      "Best",
+      "More good",
+      "Gooder",
+      "Better"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "hard",
+    "category": "Language",
+    "explanation": "'Good' is irregular: its comparative is 'better' and its superlative is 'best'.",
+    "level": 2
+  },
+  {
+    "id": 460,
+    "question": "What does the suffix '-less' mean, as in 'fearless'?",
+    "answers": [
+      "Without",
+      "Full of",
+      "The most",
+      "Able to"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Language",
+    "explanation": "The suffix '-less' means 'without', so 'fearless' means 'without fear'.",
+    "level": 2
+  },
+  {
+    "id": 461,
+    "question": "Which of these words is a collective noun?",
+    "answers": [
+      "Flock",
+      "Quickly",
+      "Running",
+      "Beautiful"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Language",
+    "explanation": "A collective noun names a group; 'flock' refers to a group of birds or sheep.",
+    "level": 2
+  },
+  {
+    "id": 462,
+    "question": "In many Spanish-speaking countries, what does 'gracias' mean?",
+    "answers": [
+      "Thank you",
+      "Hello",
+      "Please",
+      "Goodbye"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Language",
+    "explanation": "'Gracias' is the Spanish word for 'thank you'.",
+    "level": 2
+  },
+  {
+    "id": 463,
+    "question": "What figure of speech gives human qualities to non-human things, as in 'the wind whispered'?",
+    "answers": [
+      "Personification",
+      "Onomatopoeia",
+      "Alliteration",
+      "Hyperbole"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Language",
+    "explanation": "Personification attributes human traits, such as whispering, to something non-human like the wind.",
+    "level": 3
+  },
+  {
+    "id": 464,
+    "question": "Which word is a synonym for 'benevolent'?",
+    "answers": [
+      "Clumsy",
+      "Cruel",
+      "Kind",
+      "Wealthy"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Language",
+    "explanation": "'Benevolent' means well-meaning and kindly, making 'kind' its closest synonym.",
+    "level": 3
+  },
+  {
+    "id": 465,
+    "question": "In grammar, what is a conjunction?",
+    "answers": [
+      "A word that shows strong emotion",
+      "A word that names a thing",
+      "A word that joins words or clauses",
+      "A word that describes an action"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Language",
+    "explanation": "Conjunctions such as 'and', 'but', and 'because' connect words, phrases, or clauses.",
+    "level": 3
+  },
+  {
+    "id": 466,
+    "question": "What does the idiom 'a red herring' refer to?",
+    "answers": [
+      "A person who is angry",
+      "A tasty fish dish",
+      "A misleading clue that distracts",
+      "A lucky charm"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Language",
+    "explanation": "'A red herring' is something introduced to divert attention away from the real issue.",
+    "level": 3
+  },
+  {
+    "id": 467,
+    "question": "The word 'exaggeration for effect', such as 'I've told you a million times', is which figure of speech?",
+    "answers": [
+      "Irony",
+      "Simile",
+      "Hyperbole",
+      "Metaphor"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Language",
+    "explanation": "Hyperbole is deliberate exaggeration used for emphasis and not meant to be taken literally.",
+    "level": 3
+  },
+  {
+    "id": 468,
+    "question": "From which language does the English word 'kindergarten' originate?",
+    "answers": [
+      "German",
+      "Greek",
+      "French",
+      "Italian"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Language",
+    "explanation": "'Kindergarten' comes from German and literally means 'children's garden'.",
+    "level": 3
+  },
+  {
+    "id": 469,
+    "question": "What is an antonym of the word 'candid'?",
+    "answers": [
+      "Open",
+      "Frank",
+      "Honest",
+      "Secretive"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Language",
+    "explanation": "'Candid' means open and truthful, so 'secretive' is its opposite.",
+    "level": 3
+  },
+  {
+    "id": 470,
+    "question": "In the sentence 'The committee reached its decision', what type of word is 'its'?",
+    "answers": [
+      "Possessive pronoun",
+      "Conjunction",
+      "Adverb",
+      "Contraction"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Language",
+    "explanation": "'Its' (no apostrophe) is a possessive pronoun showing that the decision belongs to the committee.",
+    "level": 3
+  },
+  {
+    "id": 471,
+    "question": "The Latin root 'aud', as in 'audible' and 'audience', relates to what?",
+    "answers": [
+      "Hearing",
+      "Seeing",
+      "Speaking",
+      "Writing"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Language",
+    "explanation": "The Latin root 'aud' means 'to hear', which is why 'audible' means able to be heard.",
+    "level": 3
+  },
+  {
+    "id": 472,
+    "question": "Which sentence is written in the passive voice?",
+    "answers": [
+      "The ball was chased by the dog.",
+      "The dog is chasing the ball.",
+      "Chase the ball, dog!",
+      "The dog chased the ball."
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Language",
+    "explanation": "In the passive voice the subject receives the action, so 'the ball was chased by the dog' is passive.",
+    "level": 3
+  },
+  {
+    "id": 473,
+    "question": "What is the term for a word that is spelled the same forwards and backwards, like 'level'?",
+    "answers": [
+      "Synonym",
+      "Anagram",
+      "Palindrome",
+      "Homophone"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Language",
+    "explanation": "A palindrome reads identically in both directions, such as 'level' or 'racecar'.",
+    "level": 3
+  },
+  {
+    "id": 474,
+    "question": "The words 'their', 'there', and 'they're' are examples of what?",
+    "answers": [
+      "Homophones",
+      "Synonyms",
+      "Antonyms",
+      "Prefixes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Language",
+    "explanation": "Homophones sound alike but differ in spelling and meaning, as with 'their', 'there', and 'they're'.",
+    "level": 3
+  },
+  {
+    "id": 475,
+    "question": "What is 48 divided by 6, then multiplied by 3?",
+    "answers": [
+      "27",
+      "24",
+      "18",
+      "16"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Math",
+    "explanation": "48 divided by 6 is 8, and 8 multiplied by 3 is 24.",
+    "level": 2
+  },
+  {
+    "id": 476,
+    "question": "What is 3/5 of 40?",
+    "answers": [
+      "20",
+      "30",
+      "15",
+      "24"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "Math",
+    "explanation": "40 divided by 5 is 8, and 8 multiplied by 3 is 24.",
+    "level": 2
+  },
+  {
+    "id": 477,
+    "question": "What is 0.6 plus 0.25?",
+    "answers": [
+      "0.65",
+      "0.75",
+      "0.85",
+      "0.31"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Math",
+    "explanation": "Lining up the decimals, 0.60 + 0.25 equals 0.85.",
+    "level": 2
+  },
+  {
+    "id": 478,
+    "question": "A rectangle is 8 cm long and 4 cm wide. What is its perimeter?",
+    "answers": [
+      "20 cm",
+      "24 cm",
+      "32 cm",
+      "12 cm"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Math",
+    "explanation": "Perimeter is 2 x (8 + 4) = 2 x 12 = 24 cm.",
+    "level": 2
+  },
+  {
+    "id": 479,
+    "question": "Sam has 3 bags with 24 marbles in each. He gives away 15 marbles. How many are left?",
+    "answers": [
+      "60",
+      "57",
+      "42",
+      "72"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Math",
+    "explanation": "3 x 24 = 72 marbles, and 72 - 15 = 57 marbles left.",
+    "level": 2
+  },
+  {
+    "id": 480,
+    "question": "What is 1/2 plus 1/3?",
+    "answers": [
+      "2/5",
+      "3/5",
+      "5/6",
+      "1/6"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Math",
+    "explanation": "Using a common denominator of 6, 3/6 + 2/6 = 5/6.",
+    "level": 2
+  },
+  {
+    "id": 481,
+    "question": "A square has an area of 49 square metres. How long is each side?",
+    "answers": [
+      "9 m",
+      "7 m",
+      "24.5 m",
+      "12 m"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Math",
+    "explanation": "The side length is the square root of the area, and 7 x 7 = 49, so each side is 7 m.",
+    "level": 2
+  },
+  {
+    "id": 482,
+    "question": "What is 144 divided by 12, plus 15?",
+    "answers": [
+      "27",
+      "29",
+      "25",
+      "22"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Math",
+    "explanation": "144 divided by 12 is 12, and 12 + 15 = 27.",
+    "level": 2
+  },
+  {
+    "id": 483,
+    "question": "A book costs $12.50 and a pen costs $3.75. How much do they cost together?",
+    "answers": [
+      "$16.25",
+      "$16.75",
+      "$15.25",
+      "$15.75"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Math",
+    "explanation": "Adding $12.50 + $3.75 gives $16.25.",
+    "level": 2
+  },
+  {
+    "id": 484,
+    "question": "A recipe needs 2/3 cup of sugar. If you make 3 batches, how much sugar do you need?",
+    "answers": [
+      "6 cups",
+      "1 and 2/3 cups",
+      "2 cups",
+      "1 and 1/3 cups"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Math",
+    "explanation": "2/3 multiplied by 3 equals 6/3, which is 2 cups.",
+    "level": 2
+  },
+  {
+    "id": 485,
+    "question": "A garden bed is a rectangle 9 m long and 6 m wide. What is its area?",
+    "answers": [
+      "45 sq m",
+      "30 sq m",
+      "15 sq m",
+      "54 sq m"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "hard",
+    "category": "Math",
+    "explanation": "Area is length times width, so 9 x 6 = 54 square metres.",
+    "level": 2
+  },
+  {
+    "id": 486,
+    "question": "There are 5 rows of chairs with 8 chairs each. If 6 chairs are empty, how many chairs are filled?",
+    "answers": [
+      "36",
+      "42",
+      "40",
+      "34"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "hard",
+    "category": "Math",
+    "explanation": "5 x 8 = 40 chairs total, and 40 - 6 = 34 chairs filled.",
+    "level": 2
+  },
+  {
+    "id": 487,
+    "question": "What is 3 + 4 x 5 using the order of operations?",
+    "answers": [
+      "35",
+      "27",
+      "23",
+      "19"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Math",
+    "explanation": "Multiplication comes first, so 4 x 5 = 20, then 3 + 20 = 23.",
+    "level": 3
+  },
+  {
+    "id": 488,
+    "question": "What is 15% of 80?",
+    "answers": [
+      "20",
+      "12",
+      "15",
+      "8"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Math",
+    "explanation": "10% of 80 is 8 and 5% is 4, so 15% is 8 + 4 = 12.",
+    "level": 3
+  },
+  {
+    "id": 489,
+    "question": "The ratio of boys to girls in a class is 2:3. If there are 10 boys, how many girls are there?",
+    "answers": [
+      "15",
+      "12",
+      "20",
+      "6"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Math",
+    "explanation": "Each ratio part equals 10 divided by 2 = 5, so girls are 3 x 5 = 15.",
+    "level": 3
+  },
+  {
+    "id": 490,
+    "question": "What is 5 cubed (5^3)?",
+    "answers": [
+      "150",
+      "25",
+      "125",
+      "15"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Math",
+    "explanation": "5 cubed is 5 x 5 x 5 = 125.",
+    "level": 3
+  },
+  {
+    "id": 491,
+    "question": "If x + 7 = 22, what is the value of x?",
+    "answers": [
+      "15",
+      "16",
+      "14",
+      "29"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Math",
+    "explanation": "Subtract 7 from both sides: x = 22 - 7 = 15.",
+    "level": 3
+  },
+  {
+    "id": 492,
+    "question": "What is (12 - 4) x 2 + 6 divided by 3?",
+    "answers": [
+      "16",
+      "22",
+      "14",
+      "18"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Math",
+    "explanation": "Brackets give 8, so 8 x 2 = 16, and 6 divided by 3 = 2, then 16 + 2 = 18.",
+    "level": 3
+  },
+  {
+    "id": 493,
+    "question": "A jacket costs $60 and is reduced by 20%. What is the sale price?",
+    "answers": [
+      "$40",
+      "$52",
+      "$50",
+      "$48"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Math",
+    "explanation": "20% of 60 is 12, and 60 - 12 = 48 dollars.",
+    "level": 3
+  },
+  {
+    "id": 494,
+    "question": "What is the value of 2^5?",
+    "answers": [
+      "25",
+      "10",
+      "32",
+      "16"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Math",
+    "explanation": "2^5 is 2 x 2 x 2 x 2 x 2 = 32.",
+    "level": 3
+  },
+  {
+    "id": 495,
+    "question": "If 3x = 45, what is the value of 2x?",
+    "answers": [
+      "15",
+      "30",
+      "45",
+      "90"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Math",
+    "explanation": "x = 45 divided by 3 = 15, so 2x = 2 x 15 = 30.",
+    "level": 3
+  },
+  {
+    "id": 496,
+    "question": "A circle has a radius of 7 cm. Using Pi as 22/7, what is its area?",
+    "answers": [
+      "308 sq cm",
+      "154 sq cm",
+      "44 sq cm",
+      "22 sq cm"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Math",
+    "explanation": "Area is Pi x r squared = (22/7) x 7 x 7 = 22 x 7 = 154 square cm.",
+    "level": 3
+  },
+  {
+    "id": 497,
+    "question": "What is 40% of 250, minus 3^2?",
+    "answers": [
+      "100",
+      "89",
+      "109",
+      "91"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "hard",
+    "category": "Math",
+    "explanation": "40% of 250 is 100 and 3^2 is 9, so 100 - 9 = 91.",
+    "level": 3
+  },
+  {
+    "id": 498,
+    "question": "A right triangle has legs of 6 and 8. What is the length of the hypotenuse?",
+    "answers": [
+      "48",
+      "14",
+      "12",
+      "10"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "hard",
+    "category": "Math",
+    "explanation": "By the Pythagorean theorem, 6^2 + 8^2 = 36 + 64 = 100, and the square root of 100 is 10.",
+    "level": 3
+  },
+  {
+    "id": 499,
+    "question": "What do we call an animal that eats only plants?",
+    "answers": [
+      "Carnivore",
+      "Herbivore",
+      "Scavenger",
+      "Predator"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Nature",
+    "explanation": "A herbivore is an animal like a cow or a rabbit that eats only plants and no meat!",
+    "level": 2
+  },
+  {
+    "id": 500,
+    "question": "Which of these is a mammal that lays eggs?",
+    "answers": [
+      "Kangaroo",
+      "Dolphin",
+      "Bat",
+      "Platypus"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "Nature",
+    "explanation": "The platypus is one of the very few mammals in the world that lays eggs instead of giving birth!",
+    "level": 2
+  },
+  {
+    "id": 501,
+    "question": "Which season do many trees lose their leaves?",
+    "answers": [
+      "Autumn",
+      "Spring",
+      "Winter",
+      "Summer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Nature",
+    "explanation": "In autumn, many trees drop their leaves to save energy before the cold winter arrives!",
+    "level": 2
+  },
+  {
+    "id": 502,
+    "question": "What do we call an animal without a backbone, like a worm or a jellyfish?",
+    "answers": [
+      "Amphibian",
+      "Reptile",
+      "Vertebrate",
+      "Invertebrate"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Nature",
+    "explanation": "An invertebrate is an animal with no backbone, and most animals on Earth are invertebrates!",
+    "level": 2
+  },
+  {
+    "id": 503,
+    "question": "Which of these animals is an amphibian?",
+    "answers": [
+      "Lizard",
+      "Snake",
+      "Turtle",
+      "Frog"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Nature",
+    "explanation": "A frog is an amphibian, which means it can live both in water and on land during its life!",
+    "level": 2
+  },
+  {
+    "id": 504,
+    "question": "What is the hard outer covering of an insect's body called?",
+    "answers": [
+      "Shell",
+      "Exoskeleton",
+      "Scales",
+      "Fur"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Nature",
+    "explanation": "Insects wear their skeleton on the outside, and this tough armor is called an exoskeleton!",
+    "level": 2
+  },
+  {
+    "id": 505,
+    "question": "What gas do plants release into the air during photosynthesis?",
+    "answers": [
+      "Hydrogen",
+      "Nitrogen",
+      "Carbon dioxide",
+      "Oxygen"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Nature",
+    "explanation": "Plants give off oxygen when they make food, and that is the same air we need to breathe!",
+    "level": 2
+  },
+  {
+    "id": 506,
+    "question": "What is the largest type of big cat in the world?",
+    "answers": [
+      "Tiger",
+      "Lion",
+      "Jaguar",
+      "Leopard"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Nature",
+    "explanation": "The tiger is the biggest of all the big cats, even larger and heavier than a lion!",
+    "level": 2
+  },
+  {
+    "id": 507,
+    "question": "Which planet's weather includes a giant storm bigger than Earth? (Hint: nature isn't only on Earth!)",
+    "answers": [
+      "Mars",
+      "Jupiter",
+      "Venus",
+      "Saturn"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Nature",
+    "explanation": "Jupiter has a huge storm called the Great Red Spot that is even wider than our whole planet!",
+    "level": 2
+  },
+  {
+    "id": 508,
+    "question": "What do we call the yearly journey some animals make to find food or warmer weather?",
+    "answers": [
+      "Hibernation",
+      "Camouflage",
+      "Migration",
+      "Pollination"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Nature",
+    "explanation": "Migration is when animals like birds and whales travel long distances each year to survive!",
+    "level": 2
+  },
+  {
+    "id": 509,
+    "question": "Which part of a flower makes the yellow powder that bees carry between flowers?",
+    "answers": [
+      "Anther",
+      "Sepal",
+      "Root",
+      "Petal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Nature",
+    "explanation": "The anther is the part of the flower that makes pollen, the yellow dust bees help spread around!",
+    "level": 2
+  },
+  {
+    "id": 510,
+    "question": "Which biome is characterized by permanently frozen ground called permafrost?",
+    "answers": [
+      "Grassland",
+      "Savanna",
+      "Rainforest",
+      "Tundra"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "Nature",
+    "explanation": "The tundra is a cold biome where the ground stays frozen all year in a layer called permafrost!",
+    "level": 3
+  },
+  {
+    "id": 511,
+    "question": "What is the process by which a caterpillar completely transforms into a butterfly called?",
+    "answers": [
+      "Metamorphosis",
+      "Photosynthesis",
+      "Germination",
+      "Evaporation"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Nature",
+    "explanation": "Metamorphosis is the amazing change an animal like a butterfly goes through as it grows up!",
+    "level": 3
+  },
+  {
+    "id": 512,
+    "question": "Which gas makes up the largest part of Earth's atmosphere?",
+    "answers": [
+      "Nitrogen",
+      "Carbon dioxide",
+      "Hydrogen",
+      "Oxygen"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Nature",
+    "explanation": "Nitrogen makes up about 78 percent of the air, far more than the oxygen we breathe!",
+    "level": 3
+  },
+  {
+    "id": 513,
+    "question": "What do we call all the living and non-living things interacting in one area?",
+    "answers": [
+      "Species",
+      "Population",
+      "Ecosystem",
+      "Habitat"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Nature",
+    "explanation": "An ecosystem includes all the plants, animals, water, and soil working together in one place!",
+    "level": 3
+  },
+  {
+    "id": 514,
+    "question": "Which type of animal is warm-blooded and has feathers?",
+    "answers": [
+      "Birds",
+      "Amphibians",
+      "Fish",
+      "Reptiles"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Nature",
+    "explanation": "Birds are the only animals with feathers, and they keep their body warm just like mammals do!",
+    "level": 3
+  },
+  {
+    "id": 515,
+    "question": "What is the green pigment in plants that captures sunlight for photosynthesis?",
+    "answers": [
+      "Chlorophyll",
+      "Melanin",
+      "Keratin",
+      "Hemoglobin"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Nature",
+    "explanation": "Chlorophyll is the green pigment that lets plants trap sunlight and turn it into food!",
+    "level": 3
+  },
+  {
+    "id": 516,
+    "question": "In a food chain, what do we call organisms that break down dead plants and animals?",
+    "answers": [
+      "Predators",
+      "Producers",
+      "Decomposers",
+      "Herbivores"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Nature",
+    "explanation": "Decomposers like fungi and bacteria recycle dead things back into the soil to feed new life!",
+    "level": 3
+  },
+  {
+    "id": 517,
+    "question": "What is the largest living structure on Earth, made by tiny sea animals?",
+    "answers": [
+      "Amazon Rainforest",
+      "Sahara Desert",
+      "Great Barrier Reef",
+      "Mount Everest"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Nature",
+    "explanation": "The Great Barrier Reef off Australia was built by tiny coral animals over thousands of years!",
+    "level": 3
+  },
+  {
+    "id": 518,
+    "question": "Which cloud type is tall, dark, and usually brings thunderstorms?",
+    "answers": [
+      "Cumulus",
+      "Cumulonimbus",
+      "Cirrus",
+      "Stratus"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Nature",
+    "explanation": "Cumulonimbus clouds tower high into the sky and are the ones that bring thunder and lightning!",
+    "level": 3
+  },
+  {
+    "id": 519,
+    "question": "What do we call an animal that is active mainly at dawn and dusk?",
+    "answers": [
+      "Crepuscular",
+      "Hibernating",
+      "Diurnal",
+      "Nocturnal"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Nature",
+    "explanation": "Crepuscular animals like deer and rabbits are most active in the dim light of dawn and dusk!",
+    "level": 3
+  },
+  {
+    "id": 520,
+    "question": "Which layer of the atmosphere contains the ozone that protects us from the Sun's rays?",
+    "answers": [
+      "Troposphere",
+      "Thermosphere",
+      "Mesosphere",
+      "Stratosphere"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "hard",
+    "category": "Nature",
+    "explanation": "The stratosphere holds the ozone layer, which shields us from the Sun's harmful ultraviolet rays!",
+    "level": 3
+  },
+  {
+    "id": 521,
+    "question": "What is the name for a relationship where both animals benefit, like a clownfish and a sea anemone?",
+    "answers": [
+      "Competition",
+      "Predation",
+      "Mutualism",
+      "Parasitism"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Nature",
+    "explanation": "Mutualism is a partnership where both creatures help each other, like the clownfish and anemone!",
+    "level": 3
+  },
+  {
+    "id": 522,
+    "question": "Which gas do humans breathe out that plants take in?",
+    "answers": [
+      "Helium",
+      "Neon",
+      "Hydrogen",
+      "Carbon dioxide"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "Science",
+    "explanation": "We breathe out carbon dioxide, and plants use it during photosynthesis.",
+    "level": 2
+  },
+  {
+    "id": 523,
+    "question": "What force slows down a ball rolling across the floor?",
+    "answers": [
+      "Friction",
+      "Magnetism",
+      "Electricity",
+      "Buoyancy"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Science",
+    "explanation": "Friction is the rubbing force between surfaces that slows moving things down.",
+    "level": 2
+  },
+  {
+    "id": 524,
+    "question": "Which part of a plant makes seeds after being pollinated?",
+    "answers": [
+      "Root",
+      "Leaf",
+      "Flower",
+      "Stem"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Science",
+    "explanation": "Flowers make seeds once pollen reaches them, helping the plant reproduce.",
+    "level": 2
+  },
+  {
+    "id": 525,
+    "question": "What do we call an animal that eats both plants and other animals?",
+    "answers": [
+      "Omnivore",
+      "Carnivore",
+      "Herbivore",
+      "Producer"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Science",
+    "explanation": "Omnivores, like bears and humans, eat both plants and animals.",
+    "level": 2
+  },
+  {
+    "id": 526,
+    "question": "What is the process called when a liquid turns into a gas?",
+    "answers": [
+      "Melting",
+      "Freezing",
+      "Condensation",
+      "Evaporation"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Science",
+    "explanation": "Evaporation happens when a liquid heats up and turns into a gas, like puddles drying.",
+    "level": 2
+  },
+  {
+    "id": 527,
+    "question": "Which planet is famous for having the biggest volcano in the solar system?",
+    "answers": [
+      "Venus",
+      "Mercury",
+      "Neptune",
+      "Mars"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Science",
+    "explanation": "Mars has Olympus Mons, a volcano about three times taller than Mount Everest.",
+    "level": 2
+  },
+  {
+    "id": 528,
+    "question": "Which type of animal is cold-blooded and usually has scaly skin?",
+    "answers": [
+      "Mammal",
+      "Amphibian",
+      "Reptile",
+      "Bird"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Science",
+    "explanation": "Reptiles like snakes and lizards are cold-blooded and covered in scales.",
+    "level": 2
+  },
+  {
+    "id": 529,
+    "question": "What is the name of the tube that carries air to your lungs?",
+    "answers": [
+      "Intestine",
+      "Aorta",
+      "Trachea",
+      "Esophagus"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Science",
+    "explanation": "The trachea, or windpipe, carries the air you breathe down to your lungs.",
+    "level": 2
+  },
+  {
+    "id": 530,
+    "question": "Which force pulls objects toward the center of the Earth?",
+    "answers": [
+      "Gravity",
+      "Air pressure",
+      "Static",
+      "Tension"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Science",
+    "explanation": "Gravity is the force that pulls everything toward the center of the Earth.",
+    "level": 2
+  },
+  {
+    "id": 531,
+    "question": "What is a young insect that looks very different from its adult form called?",
+    "answers": [
+      "Larva",
+      "Cub",
+      "Foal",
+      "Fledgling"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Science",
+    "explanation": "A larva, like a caterpillar, is an early stage before an insect becomes an adult.",
+    "level": 2
+  },
+  {
+    "id": 532,
+    "question": "Which simple machine is a ramp used to move heavy things up more easily?",
+    "answers": [
+      "Wheel and axle",
+      "Inclined plane",
+      "Lever",
+      "Pulley"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Science",
+    "explanation": "An inclined plane is a sloped surface, like a ramp, that makes lifting easier.",
+    "level": 2
+  },
+  {
+    "id": 533,
+    "question": "What is the powerhouse of the cell that produces energy?",
+    "answers": [
+      "Mitochondria",
+      "Nucleus",
+      "Ribosome",
+      "Vacuole"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Science",
+    "explanation": "Mitochondria release energy inside cells, so they are called the powerhouse.",
+    "level": 3
+  },
+  {
+    "id": 534,
+    "question": "Which scientist developed the theory of general relativity?",
+    "answers": [
+      "Galileo Galilei",
+      "Niels Bohr",
+      "Albert Einstein",
+      "Isaac Newton"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Science",
+    "explanation": "Albert Einstein created general relativity, explaining gravity as bending of space and time.",
+    "level": 3
+  },
+  {
+    "id": 535,
+    "question": "What is the pH value of a neutral solution like pure water?",
+    "answers": [
+      "0",
+      "10",
+      "7",
+      "14"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Science",
+    "explanation": "Pure water is neutral, sitting right in the middle of the pH scale at 7.",
+    "level": 3
+  },
+  {
+    "id": 536,
+    "question": "Which subatomic particle carries a negative electric charge?",
+    "answers": [
+      "Neutron",
+      "Electron",
+      "Proton",
+      "Photon"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Science",
+    "explanation": "Electrons carry a negative charge and whizz around the nucleus of an atom.",
+    "level": 3
+  },
+  {
+    "id": 537,
+    "question": "What is the name of the process by which a cell splits into two identical cells?",
+    "answers": [
+      "Mitosis",
+      "Meiosis",
+      "Osmosis",
+      "Diffusion"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Science",
+    "explanation": "Mitosis is when one cell divides to make two matching copies of itself.",
+    "level": 3
+  },
+  {
+    "id": 538,
+    "question": "Which law states that for every action there is an equal and opposite reaction?",
+    "answers": [
+      "Ohm's law",
+      "Newton's first law",
+      "Boyle's law",
+      "Newton's third law"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Science",
+    "explanation": "Newton's third law explains that pushing on something pushes back on you equally.",
+    "level": 3
+  },
+  {
+    "id": 539,
+    "question": "What is the most abundant gas in the Sun?",
+    "answers": [
+      "Oxygen",
+      "Iron",
+      "Carbon",
+      "Hydrogen"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "medium",
+    "category": "Science",
+    "explanation": "The Sun is mostly hydrogen, which it fuses into helium to make its light and heat.",
+    "level": 3
+  },
+  {
+    "id": 540,
+    "question": "Which blood vessels carry blood away from the heart?",
+    "answers": [
+      "Capillaries",
+      "Veins",
+      "Arteries",
+      "Ventricles"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Science",
+    "explanation": "Arteries carry blood away from the heart, while veins bring it back.",
+    "level": 3
+  },
+  {
+    "id": 541,
+    "question": "What is the chemical formula for the sugar glucose?",
+    "answers": [
+      "CO2",
+      "H2O2",
+      "C6H12O6",
+      "CH4"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Science",
+    "explanation": "Glucose is a sugar made of six carbon, twelve hydrogen, and six oxygen atoms.",
+    "level": 3
+  },
+  {
+    "id": 542,
+    "question": "Which particle was discovered at CERN in 2012, sometimes called the 'God particle'?",
+    "answers": [
+      "Muon",
+      "Neutrino",
+      "Quark",
+      "Higgs boson"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "hard",
+    "category": "Science",
+    "explanation": "The Higgs boson was found in 2012 and helps explain why particles have mass.",
+    "level": 3
+  },
+  {
+    "id": 543,
+    "question": "What is the term for the change of a solid directly into a gas without becoming a liquid?",
+    "answers": [
+      "Condensation",
+      "Vaporization",
+      "Sublimation",
+      "Fusion"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Science",
+    "explanation": "Sublimation is when a solid, like dry ice, turns straight into a gas.",
+    "level": 3
+  },
+  {
+    "id": 544,
+    "question": "Which part of the brain controls balance and coordination?",
+    "answers": [
+      "Cerebellum",
+      "Cerebrum",
+      "Medulla",
+      "Hippocampus"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Science",
+    "explanation": "The cerebellum, at the back of the brain, helps you balance and move smoothly.",
+    "level": 3
+  },
+  {
+    "id": 545,
+    "question": "How often are the modern Summer Olympic Games normally held?",
+    "answers": [
+      "Every 4 years",
+      "Every 10 years",
+      "Every 2 years",
+      "Every year"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Sports",
+    "explanation": "The Summer Olympics take place once every four years, a period once known as an Olympiad.",
+    "level": 2
+  },
+  {
+    "id": 546,
+    "question": "In tennis, what is the name for a score of 40-40?",
+    "answers": [
+      "Fault",
+      "Match point",
+      "Ace",
+      "Deuce"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "Sports",
+    "explanation": "When both players reach 40, the score is called deuce, and someone must win two points in a row.",
+    "level": 2
+  },
+  {
+    "id": 547,
+    "question": "How many players from one team are on a basketball court at the same time?",
+    "answers": [
+      "6",
+      "4",
+      "7",
+      "5"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "Sports",
+    "explanation": "Each basketball team has five players on the court during play.",
+    "level": 2
+  },
+  {
+    "id": 548,
+    "question": "In soccer, what is it called when one player scores three goals in a single game?",
+    "answers": [
+      "Grand slam",
+      "Treble",
+      "Hat-trick",
+      "Triple"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Sports",
+    "explanation": "Scoring three goals in one match is called a hat-trick.",
+    "level": 2
+  },
+  {
+    "id": 549,
+    "question": "In baseball, how many strikes make a batter 'out'?",
+    "answers": [
+      "5",
+      "3",
+      "2",
+      "4"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Sports",
+    "explanation": "A batter is out after three strikes, which is where the phrase 'three strikes and you're out' comes from.",
+    "level": 2
+  },
+  {
+    "id": 550,
+    "question": "Which piece of equipment separates the two sides in a game of table tennis?",
+    "answers": [
+      "A rope",
+      "A line",
+      "A net",
+      "A wall"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Sports",
+    "explanation": "A small net stretches across the middle of the table tennis table.",
+    "level": 2
+  },
+  {
+    "id": 551,
+    "question": "In American football, how many points is a touchdown worth (before any extra kick)?",
+    "answers": [
+      "3",
+      "10",
+      "6",
+      "7"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Sports",
+    "explanation": "A touchdown scores six points, and teams can then try for extra points afterward.",
+    "level": 2
+  },
+  {
+    "id": 552,
+    "question": "In which sport is the Ryder Cup a famous team competition?",
+    "answers": [
+      "Cricket",
+      "Rowing",
+      "Golf",
+      "Tennis"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Sports",
+    "explanation": "The Ryder Cup is a golf competition between teams from Europe and the United States.",
+    "level": 2
+  },
+  {
+    "id": 553,
+    "question": "In athletics, how long is a standard marathon race?",
+    "answers": [
+      "About 42 km",
+      "About 100 km",
+      "About 21 km",
+      "Just over 10 km"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Sports",
+    "explanation": "A marathon is about 42 kilometres (roughly 26.2 miles) long.",
+    "level": 2
+  },
+  {
+    "id": 554,
+    "question": "In cricket, how many players are on each team on the field?",
+    "answers": [
+      "10",
+      "12",
+      "11",
+      "9"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Sports",
+    "explanation": "A cricket team fields eleven players, just like a soccer team.",
+    "level": 2
+  },
+  {
+    "id": 555,
+    "question": "Which country hosts the famous Tour de France cycling race?",
+    "answers": [
+      "Spain",
+      "France",
+      "Belgium",
+      "Italy"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Sports",
+    "explanation": "The Tour de France is a long cycling race held mainly in France each summer.",
+    "level": 2
+  },
+  {
+    "id": 556,
+    "question": "In ten-pin bowling, what is knocking down all ten pins with your first ball called?",
+    "answers": [
+      "A strike",
+      "A split",
+      "A turkey",
+      "A spare"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Sports",
+    "explanation": "Knocking down all ten pins on the first roll of a frame is called a strike.",
+    "level": 2
+  },
+  {
+    "id": 557,
+    "question": "In tennis, which of these tournaments is played on grass courts?",
+    "answers": [
+      "Australian Open",
+      "Wimbledon",
+      "French Open",
+      "US Open"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Sports",
+    "explanation": "Wimbledon is the only Grand Slam still played on grass; the French Open uses clay and the others use hard courts.",
+    "level": 3
+  },
+  {
+    "id": 558,
+    "question": "In rugby union, how many points is a try worth?",
+    "answers": [
+      "5",
+      "7",
+      "6",
+      "3"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "easy",
+    "category": "Sports",
+    "explanation": "A try in rugby union is worth five points, with a conversion kick adding two more.",
+    "level": 3
+  },
+  {
+    "id": 559,
+    "question": "In golf, what term describes a score of one stroke under par on a hole?",
+    "answers": [
+      "Eagle",
+      "Birdie",
+      "Bogey",
+      "Albatross"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Sports",
+    "explanation": "A birdie is one stroke under par, while a bogey is one over and an eagle is two under.",
+    "level": 3
+  },
+  {
+    "id": 560,
+    "question": "How many players are on the field for one team in a game of field hockey?",
+    "answers": [
+      "10",
+      "13",
+      "9",
+      "11"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "easy",
+    "category": "Sports",
+    "explanation": "A field hockey team plays with eleven players, including the goalkeeper.",
+    "level": 3
+  },
+  {
+    "id": 561,
+    "question": "In Formula 1 motor racing, what flag is waved to signal the end of a race?",
+    "answers": [
+      "Chequered flag",
+      "Red flag",
+      "Blue flag",
+      "Yellow flag"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Sports",
+    "explanation": "The black-and-white chequered flag is waved as the winner crosses the finish line to end the race.",
+    "level": 3
+  },
+  {
+    "id": 562,
+    "question": "In volleyball, what is a hard downward attacking hit called?",
+    "answers": [
+      "Serve",
+      "Set",
+      "Spike",
+      "Dig"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Sports",
+    "explanation": "A spike is a powerful downward hit used to send the ball sharply into the opponents' court.",
+    "level": 3
+  },
+  {
+    "id": 563,
+    "question": "The Stanley Cup is the championship trophy of which sport's top North American league?",
+    "answers": [
+      "Baseball",
+      "Basketball",
+      "Ice hockey",
+      "American football"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Sports",
+    "explanation": "The Stanley Cup is awarded to the champion of the NHL, the top ice hockey league in North America.",
+    "level": 3
+  },
+  {
+    "id": 564,
+    "question": "In boxing, how many minutes long is a standard professional round?",
+    "answers": [
+      "2 minutes",
+      "5 minutes",
+      "3 minutes",
+      "1 minute"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Sports",
+    "explanation": "A standard professional boxing round lasts three minutes, followed by a one-minute rest.",
+    "level": 3
+  },
+  {
+    "id": 565,
+    "question": "In cricket, what is it called when a bowler takes three wickets with three consecutive balls?",
+    "answers": [
+      "A duck",
+      "A hat-trick",
+      "A century",
+      "A maiden"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Sports",
+    "explanation": "Taking three wickets with three balls in a row is a hat-trick, a rare bowling achievement.",
+    "level": 3
+  },
+  {
+    "id": 566,
+    "question": "In the modern pentathlon, which of these is NOT one of the five events?",
+    "answers": [
+      "Swimming",
+      "Horse riding",
+      "Archery",
+      "Fencing"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Sports",
+    "explanation": "The modern pentathlon combines fencing, swimming, horse riding, and a run-shoot event, but not archery.",
+    "level": 3
+  },
+  {
+    "id": 567,
+    "question": "In athletics, which throwing event uses a heavy metal ball that is 'put' rather than thrown?",
+    "answers": [
+      "Discus",
+      "Javelin",
+      "Shot put",
+      "Hammer throw"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Sports",
+    "explanation": "In the shot put, athletes push, or 'put', a heavy metal ball rather than throwing it overhand.",
+    "level": 3
+  },
+  {
+    "id": 568,
+    "question": "In a standard game of darts starting from 501, why must the final dart land in a double?",
+    "answers": [
+      "Because singles are not allowed",
+      "The rules require finishing on a double",
+      "To score extra points",
+      "To reach exactly zero faster"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Sports",
+    "explanation": "The rules of the 501 game require a player to reach exactly zero by hitting a double with the last dart.",
+    "level": 3
+  },
+  {
+    "id": 569,
+    "question": "What does the 'brain' of a computer that does the calculations get called?",
+    "answers": [
+      "The speaker",
+      "The keyboard",
+      "The CPU",
+      "The monitor"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Technology",
+    "explanation": "The CPU (Central Processing Unit) is the processor that carries out a computer's instructions.",
+    "level": 2
+  },
+  {
+    "id": 570,
+    "question": "Which of these is an example of computer 'hardware'?",
+    "answers": [
+      "A password",
+      "A song file",
+      "A keyboard",
+      "A web browser"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Technology",
+    "explanation": "Hardware means the physical parts you can touch, like a keyboard, while software is the programs that run on it.",
+    "level": 2
+  },
+  {
+    "id": 571,
+    "question": "What is the small picture you click to open a program or app usually called?",
+    "answers": [
+      "A pixel",
+      "An icon",
+      "A cursor",
+      "A folder"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Technology",
+    "explanation": "An icon is a small picture on the screen that you click to open a program, file, or app.",
+    "level": 2
+  },
+  {
+    "id": 572,
+    "question": "What does a computer 'mouse' let you do?",
+    "answers": [
+      "Store your files",
+      "Move a pointer on the screen",
+      "Print pages",
+      "Charge the battery"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Technology",
+    "explanation": "A mouse moves the pointer (cursor) around the screen so you can click on things.",
+    "level": 2
+  },
+  {
+    "id": 573,
+    "question": "What are the tiny dots that make up a picture on a screen called?",
+    "answers": [
+      "Bytes",
+      "Bugs",
+      "Pixels",
+      "Cookies"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Technology",
+    "explanation": "A pixel is one tiny dot of color, and thousands of them together make up the images on a screen.",
+    "level": 2
+  },
+  {
+    "id": 574,
+    "question": "Who is widely credited with inventing the World Wide Web?",
+    "answers": [
+      "Mark Zuckerberg",
+      "Bill Gates",
+      "Tim Berners-Lee",
+      "Steve Jobs"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Technology",
+    "explanation": "British scientist Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN.",
+    "level": 2
+  },
+  {
+    "id": 575,
+    "question": "What is a 'search engine' like Google mainly used for?",
+    "answers": [
+      "Making phone calls",
+      "Charging your phone",
+      "Finding information on the internet",
+      "Sending letters by post"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "medium",
+    "category": "Technology",
+    "explanation": "A search engine helps you find web pages and information across the internet by typing in what you want.",
+    "level": 2
+  },
+  {
+    "id": 576,
+    "question": "A very small computer file might be measured in kilobytes. What is a kilobyte made of?",
+    "answers": [
+      "About a thousand bytes",
+      "About ten bytes",
+      "About a billion bytes",
+      "About a million bytes"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Technology",
+    "explanation": "A kilobyte is roughly one thousand bytes, and computers measure file sizes using bytes.",
+    "level": 2
+  },
+  {
+    "id": 577,
+    "question": "In computers, a 'bug' usually means what?",
+    "answers": [
+      "A fast internet connection",
+      "A mistake or error in a program",
+      "An insect inside the computer",
+      "A type of battery"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Technology",
+    "explanation": "A bug is an error in a program's code that makes it behave wrongly, and fixing it is called debugging.",
+    "level": 2
+  },
+  {
+    "id": 578,
+    "question": "What does it mean to 'save to the cloud'?",
+    "answers": [
+      "Print files onto photos",
+      "Store files only on paper",
+      "Store files on faraway internet computers",
+      "Delete your files"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Technology",
+    "explanation": "Cloud storage keeps your files on powerful computers (servers) reached over the internet instead of only on your device.",
+    "level": 2
+  },
+  {
+    "id": 579,
+    "question": "Which company created the Windows operating system?",
+    "answers": [
+      "Apple",
+      "Google",
+      "Samsung",
+      "Microsoft"
+    ],
+    "correctAnswer": 3,
+    "difficulty": "hard",
+    "category": "Technology",
+    "explanation": "Microsoft, co-founded by Bill Gates, created Windows, one of the most widely used operating systems.",
+    "level": 2
+  },
+  {
+    "id": 580,
+    "question": "What is a set of step-by-step instructions that a computer follows to solve a problem called?",
+    "answers": [
+      "An algorithm",
+      "A modem",
+      "A monitor",
+      "A keyboard"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "hard",
+    "category": "Technology",
+    "explanation": "An algorithm is a clear set of steps a computer follows to complete a task or solve a problem.",
+    "level": 2
+  },
+  {
+    "id": 581,
+    "question": "What number system, using only 0s and 1s, do computers use to store all information?",
+    "answers": [
+      "Roman",
+      "Hexadecimal",
+      "Binary",
+      "Decimal"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "easy",
+    "category": "Technology",
+    "explanation": "Computers use binary, a base-2 system of only 0s and 1s, because circuits are easily either off (0) or on (1).",
+    "level": 3
+  },
+  {
+    "id": 582,
+    "question": "What is the main job of a computer's RAM?",
+    "answers": [
+      "To connect to the internet",
+      "To hold data the computer is actively using right now",
+      "To display images",
+      "To permanently store files when powered off"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Technology",
+    "explanation": "RAM (Random Access Memory) is fast, temporary memory that holds data being used right now and is cleared when the power goes off.",
+    "level": 3
+  },
+  {
+    "id": 583,
+    "question": "In coding, what does a 'loop' do?",
+    "answers": [
+      "Deletes a file",
+      "Repeats a set of instructions",
+      "Connects to Wi-Fi",
+      "Ends the program"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Technology",
+    "explanation": "A loop repeats a block of code over and over, which saves programmers from writing the same instructions many times.",
+    "level": 3
+  },
+  {
+    "id": 584,
+    "question": "What is the difference between the 'internet' and the 'World Wide Web'?",
+    "answers": [
+      "They are exactly the same thing",
+      "The internet is the network; the Web is pages you view on it",
+      "The Web is older than the internet",
+      "The internet only works on phones"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "easy",
+    "category": "Technology",
+    "explanation": "The internet is the global network of connected computers, while the World Wide Web is the collection of web pages that runs on top of it.",
+    "level": 3
+  },
+  {
+    "id": 585,
+    "question": "How many bits are there in one byte?",
+    "answers": [
+      "8",
+      "16",
+      "4",
+      "64"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Technology",
+    "explanation": "A byte is made up of 8 bits, and one byte can represent 256 different values.",
+    "level": 3
+  },
+  {
+    "id": 586,
+    "question": "What does a web browser mainly do?",
+    "answers": [
+      "Repair broken hardware",
+      "Request and display web pages",
+      "Generate electricity for the computer",
+      "Store all the world's data by itself"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Technology",
+    "explanation": "A web browser requests web pages from servers and renders their HTML, images, and code so you can view them.",
+    "level": 3
+  },
+  {
+    "id": 587,
+    "question": "What is the primary purpose of an IP address on the internet?",
+    "answers": [
+      "To identify and locate a device on a network",
+      "To speed up your battery",
+      "To play videos",
+      "To store your passwords"
+    ],
+    "correctAnswer": 0,
+    "difficulty": "medium",
+    "category": "Technology",
+    "explanation": "An IP (Internet Protocol) address is a unique number that identifies a device so data can be sent to the right place.",
+    "level": 3
+  },
+  {
+    "id": 588,
+    "question": "Which of these is a programming language?",
+    "answers": [
+      "HTTP",
+      "Python",
+      "USB",
+      "PDF"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "medium",
+    "category": "Technology",
+    "explanation": "Python is a popular programming language, while HTTP, USB, and PDF are a protocol, a connection standard, and a file format.",
+    "level": 3
+  },
+  {
+    "id": 589,
+    "question": "What does the padlock icon and 'https' in a web address indicate?",
+    "answers": [
+      "The site is free",
+      "The connection is encrypted for security",
+      "The page loads faster",
+      "The site has no ads"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Technology",
+    "explanation": "The 's' in HTTPS means the connection is encrypted, so information sent between you and the site is protected from eavesdroppers.",
+    "level": 3
+  },
+  {
+    "id": 590,
+    "question": "In many programming languages, what does a 'variable' do?",
+    "answers": [
+      "Permanently breaks the code",
+      "Stores a value that can be used and changed",
+      "Deletes the operating system",
+      "Connects two computers"
+    ],
+    "correctAnswer": 1,
+    "difficulty": "hard",
+    "category": "Technology",
+    "explanation": "A variable is a named container that holds a value, and that value can be read or changed as the program runs.",
+    "level": 3
+  },
+  {
+    "id": 591,
+    "question": "Who is often called the world's first computer programmer for her work on Charles Babbage's Analytical Engine?",
+    "answers": [
+      "Grace Hopper",
+      "Katherine Johnson",
+      "Ada Lovelace",
+      "Marie Curie"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Technology",
+    "explanation": "Ada Lovelace wrote an algorithm for Babbage's Analytical Engine in the 1840s, earning her the title of first computer programmer.",
+    "level": 3
+  },
+  {
+    "id": 592,
+    "question": "When you type a website name like 'example.com', what system translates it into an IP address?",
+    "answers": [
+      "USB",
+      "The CPU",
+      "DNS (Domain Name System)",
+      "RAM"
+    ],
+    "correctAnswer": 2,
+    "difficulty": "hard",
+    "category": "Technology",
+    "explanation": "The Domain Name System (DNS) works like the internet's phone book, turning readable names into the IP addresses computers use.",
+    "level": 3
   }
 ]

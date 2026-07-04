@@ -1,9 +1,12 @@
+import type { Level } from '../types';
+
 interface StartScreenProps {
   onStart: (playerCount: 1 | 2 | 3, questionCount: 5 | 10 | 15 | 20, names: string[]) => void;
   onHighscores: () => void;
   playerCount: 1 | 2 | 3;
   questionCount: 5 | 10 | 15 | 20;
   playerNames: string[];
+  level: Level;
   allCategories: string[];
   selectedCategories: string[];
   timerSeconds: number | null;
@@ -11,6 +14,7 @@ interface StartScreenProps {
   onPlayerCountChange: (count: 1 | 2 | 3) => void;
   onQuestionCountChange: (count: 5 | 10 | 15 | 20) => void;
   onPlayerNameChange: (index: number, name: string) => void;
+  onLevelChange: (level: Level) => void;
   onToggleCategory: (category: string) => void;
   onTimerChange: (seconds: number | null) => void;
 }
@@ -22,12 +26,19 @@ const TIMER_OPTIONS: { label: string; value: number | null }[] = [
   { label: '120s', value: 120 },
 ];
 
+const LEVEL_OPTIONS: { label: string; value: Level }[] = [
+  { label: 'Ages 6–8', value: 1 },
+  { label: 'Ages 9–11', value: 2 },
+  { label: 'Ages 12+', value: 3 },
+];
+
 export function StartScreen({
   onStart,
   onHighscores,
   playerCount,
   questionCount,
   playerNames,
+  level,
   allCategories,
   selectedCategories,
   timerSeconds,
@@ -35,6 +46,7 @@ export function StartScreen({
   onPlayerCountChange,
   onQuestionCountChange,
   onPlayerNameChange,
+  onLevelChange,
   onToggleCategory,
   onTimerChange,
 }: StartScreenProps) {
@@ -48,6 +60,21 @@ export function StartScreen({
       <p className="start-screen__subtitle">Test Your Knowledge</p>
 
       <div className="start-screen__options">
+        <div className="option-group">
+          <span className="option-group__label">Difficulty</span>
+          <div className="option-group__buttons">
+            {LEVEL_OPTIONS.map(opt => (
+              <button
+                key={opt.value}
+                className={`option-btn ${level === opt.value ? 'option-btn--selected' : ''}`}
+                onClick={() => onLevelChange(opt.value)}
+              >
+                {opt.label}
+              </button>
+            ))}
+          </div>
+        </div>
+
         <div className="option-group">
           <span className="option-group__label">Players</span>
           <div className="option-group__buttons">

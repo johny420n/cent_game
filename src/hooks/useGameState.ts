@@ -1,5 +1,5 @@
 import { useState, useCallback } from 'react';
-import type { GameState, PlayerState, PlayerIndex, Question } from '../types';
+import type { GameState, PlayerState, PlayerIndex, Question, Level } from '../types';
 import { selectQuestions } from '../utils/questionSelector';
 
 function createPlayer(name: string): PlayerState {
@@ -21,6 +21,7 @@ function initialState(): GameState {
     phase: 'start',
     playerCount: 1,
     questionCount: 15,
+    level: 1,
     categories: [],
     timerSeconds: 60,
     currentQuestionIndex: 0,
@@ -38,12 +39,14 @@ export function useGameState(allQuestions: Question[]) {
     names: string[],
     categories: string[],
     timerSeconds: number | null,
+    level: Level,
   ) => {
-    const questions = selectQuestions(allQuestions, questionCount, categories);
+    const questions = selectQuestions(allQuestions, questionCount, categories, level);
     setState({
       phase: 'playing',
       playerCount,
       questionCount,
+      level,
       categories,
       timerSeconds,
       currentQuestionIndex: 0,

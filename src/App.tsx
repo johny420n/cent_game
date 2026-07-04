@@ -1,4 +1,5 @@
 import { useState, useEffect, useMemo } from 'react';
+import type { Level } from './types';
 import { useQuestions } from './hooks/useQuestions';
 import { useGameState } from './hooks/useGameState';
 import { useHighscores } from './hooks/useHighscores';
@@ -20,6 +21,7 @@ export default function App() {
   const [questionCount, setQuestionCount] = useState<5 | 10 | 15 | 20>(15);
   const [playerNames, setPlayerNames] = useState<string[]>(['', '', '']);
   const [timerSeconds, setTimerSeconds] = useState<number | null>(60);
+  const [level, setLevel] = useState<Level>(1);
   const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
 
   // Unique category list, sorted, derived from the loaded questions.
@@ -36,8 +38,10 @@ export default function App() {
   }, [allCategories]);
 
   const availableCount = useMemo(
-    () => allQuestions.filter(q => selectedCategories.includes(q.category)).length,
-    [allQuestions, selectedCategories],
+    () => allQuestions.filter(q =>
+      (q.level ?? 1) === level && selectedCategories.includes(q.category),
+    ).length,
+    [allQuestions, selectedCategories, level],
   );
 
   const handlePlayerNameChange = (index: number, name: string) => {
@@ -96,6 +100,7 @@ export default function App() {
         playerCount={playerCount}
         questionCount={questionCount}
         playerNames={playerNames}
+        level={level}
         allCategories={allCategories}
         selectedCategories={selectedCategories}
         timerSeconds={timerSeconds}
@@ -103,10 +108,11 @@ export default function App() {
         onPlayerCountChange={setPlayerCount}
         onQuestionCountChange={setQuestionCount}
         onPlayerNameChange={handlePlayerNameChange}
+        onLevelChange={setLevel}
         onToggleCategory={handleToggleCategory}
         onTimerChange={setTimerSeconds}
         onStart={(pc, qc, names) => {
-          startGame(pc, qc, names, selectedCategories, timerSeconds);
+          startGame(pc, qc, names, selectedCategories, timerSeconds, level);
         }}
         onHighscores={() => setScreen('highscores')}
       />

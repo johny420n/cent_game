@@ -23,13 +23,16 @@ export function selectQuestions(
   allQuestions: Question[],
   count: 5 | 10 | 15 | 20,
   categories?: string[],
+  level: 1 | 2 | 3 = 1,
 ): Question[] {
   const dist = distributions[count];
 
-  // Filter by chosen categories (empty/undefined means "all").
-  const pool = categories && categories.length
-    ? allQuestions.filter(q => categories.includes(q.category))
-    : allQuestions;
+  // Filter by challenge level (missing level counts as 1) and chosen categories
+  // (empty/undefined means "all").
+  const pool = allQuestions.filter(q =>
+    (q.level ?? 1) === level &&
+    (!categories || categories.length === 0 || categories.includes(q.category)),
+  );
 
   const easy = shuffle(pool.filter(q => q.difficulty === 'easy'));
   const medium = shuffle(pool.filter(q => q.difficulty === 'medium'));
