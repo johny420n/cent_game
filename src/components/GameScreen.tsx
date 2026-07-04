@@ -5,6 +5,7 @@ import { AnswerButton } from './AnswerButton';
 import { PlayerPanel } from './PlayerPanel';
 import { MoneyLadder } from './MoneyLadder';
 import { getLadder, formatMoney } from '../data/moneyLadders';
+import { playSelect, playLockIn, playCorrect, playWrong, isMuted, toggleMuted } from '../utils/sound';
 
 interface GameScreenProps {
   state: GameState;
@@ -41,6 +42,21 @@ export function GameScreen({
   const [timeLeft, setTimeLeft] = useState(timeLimit ?? 0);
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
   const hasAutoLockedRef = useRef(false);
+
+  const [muted, setMutedState] = useState(isMuted());
+  const revealSoundRef = useRef<number | null>(null);
+
+  // Play a correct/incorrect sound once when a question is revealed.
+  useEffect(() => {
+    if (!isReveal) return;
+    if (revealSoundRef.current === state.currentQuestionIndex) return;
+    revealSoundRef.current = state.currentQuestionIndex;
+    const active = state.players.slice(0, state.playerCount);
+    const won = state.playerCount === 1
+      ? active[0].selectedAnswer === question.correctAnswer
+      : active.some(p => p.selectedAnswer === question.correctAnswer);
+    won ? playCorrect() : playWrong();
+  }, [isReveal, state.currentQuestionIndex, state.playerCount, state.players, question.correctAnswer]);
 
   // Reset timer when question changes
   useEffect(() => {
@@ -92,6 +108,14 @@ export function GameScreen({
     <div className="game-screen">
       <div className="game-header">
         <button className="back-btn" onClick={onQuit}>Quit</button>
+        <button
+          className="mute-btn"
+          onClick={() => setMutedState(toggleMuted())}
+          title={muted ? 'Sound off' : 'Sound on'}
+          aria-label={muted ? 'Turn sound on' : 'Turn sound off'}
+        >
+          {muted ? '🔇' : '🔊'}
+        </button>
         <span className="game-header__question-num">
           Question {state.currentQuestionIndex + 1} of {state.questions.length}
         </span>
@@ -144,6 +168,7 @@ export function GameScreen({
                   disabled={isReveal}
                   onClick={() => {
                     if (state.playerCount === 1 && !isReveal) {
+                      playSelect();
                       onSelectAnswer(0, i);
                     }
                   }}
@@ -178,7 +203,7 @@ export function GameScreen({
             ) : (
               <button
                 className="lock-in-btn lock-in-btn--shared"
-                onClick={onLockInAll}
+                onClick={() => { playLockIn(); onLockInAll(); }}
               >
                 Lock In All Answers
               </button>
@@ -194,7 +219,7 @@ export function GameScreen({
                 isReveal={isReveal}
                 correctAnswer={question.correctAnswer}
                 explanation={question.explanation}
-                onSelect={(i) => onSelectAnswer(idx, i)}
+                onSelect={(i) => { playSelect(); onSelectAnswer(idx, i); }}
                 onFiftyFifty={() => onFiftyFifty(idx)}
                 onCallFriend={() => onCallFriend(idx)}
               />
